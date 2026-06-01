@@ -2,1981 +2,971 @@
   "version": 1,
   "updatedAt": "2026-06-01",
   "cards": [
-    {
-      "id": "h001",
-      "soz": "Fil",
-      "qadagan": [
-        "xortum",
-        "böyük",
-        "Afrika",
-        "qulaq",
-        "heyvan"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "h002",
-      "soz": "Pişik",
-      "qadagan": [
-        "miyov",
-        "siçan",
-        "ev",
-        "tük",
-        "pəncə"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "h003",
-      "soz": "İt",
-      "qadagan": [
-        "hürmək",
-        "sadiq",
-        "sümük",
-        "dost",
-        "dörd ayaq"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "h004",
-      "soz": "Aslan",
-      "qadagan": [
-        "meşə",
-        "padşah",
-        "yele",
-        "güclü",
-        "ovçu"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h005",
-      "soz": "Zürafə",
-      "qadagan": [
-        "boyun",
-        "uzun",
-        "hündür",
-        "ləkə",
-        "Afrika"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "h006",
-      "soz": "Pinqvin",
-      "qadagan": [
-        "quş",
-        "uçmur",
-        "soyuq",
-        "qara",
-        "buz"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h007",
-      "soz": "Dəvə",
-      "qadagan": [
-        "səhra",
-        "hörgüc",
-        "qum",
-        "su",
-        "karvan"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h008",
-      "soz": "Dovşan",
-      "qadagan": [
-        "uzun qulaq",
-        "yerkökü",
-        "tullanmaq",
-        "sürətli",
-        "tük"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h009",
-      "soz": "Tısbağa",
-      "qadagan": [
-        "qabıq",
-        "yavaş",
-        "sürünən",
-        "su",
-        "uzunömürlü"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h010",
-      "soz": "At",
-      "qadagan": [
-        "minmək",
-        "nal",
-        "sürət",
-        "yele",
-        "çapmaq"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "h011",
-      "soz": "İnək",
-      "qadagan": [
-        "süd",
-        "otlamaq",
-        "ferma",
-        "buynuz",
-        "böyürmək"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "h012",
-      "soz": "Arı",
-      "qadagan": [
-        "bal",
-        "çiçək",
-        "sancmaq",
-        "pətək",
-        "vızıltı"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h013",
-      "soz": "Kəpənək",
-      "qadagan": [
-        "qanad",
-        "çiçək",
-        "rəngli",
-        "tırtıl",
-        "uçmaq"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h014",
-      "soz": "Balina",
-      "qadagan": [
-        "dəniz",
-        "böyük",
-        "su",
-        "məməli",
-        "fışqırıq"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "h015",
-      "soz": "Köpəkbalığı",
-      "qadagan": [
-        "dəniz",
-        "diş",
-        "təhlükəli",
-        "üzmək",
-        "ov"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h016",
-      "soz": "Tülkü",
-      "qadagan": [
-        "hiyləgər",
-        "meşə",
-        "qırmızı",
-        "quyruq",
-        "toyuq"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h017",
-      "soz": "Ayı",
-      "qadagan": [
-        "meşə",
-        "bal",
-        "qış yuxusu",
-        "böyük",
-        "pəncə"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "h018",
-      "soz": "Meymun",
-      "qadagan": [
-        "ağac",
-        "banan",
-        "qıvraq",
-        "oxşar",
-        "meşə"
-      ],
-      "kateqoriya": "Heyvanlar",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id001",
-      "soz": "Futbol",
-      "qadagan": [
-        "top",
-        "qol",
-        "stadion",
-        "komanda",
-        "qapı"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "id002",
-      "soz": "Basketbol",
-      "qadagan": [
-        "top",
-        "səbət",
-        "atmaq",
-        "hündür",
-        "meydança"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id003",
-      "soz": "Voleybol",
-      "qadagan": [
-        "top",
-        "tor",
-        "vurmaq",
-        "komanda",
-        "qum"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id004",
-      "soz": "Tennis",
-      "qadagan": [
-        "raketka",
-        "top",
-        "kort",
-        "tor",
-        "vurmaq"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id005",
-      "soz": "Üzgüçülük",
-      "qadagan": [
-        "su",
-        "hovuz",
-        "üzmək",
-        "yarış",
-        "qol"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id006",
-      "soz": "Boks",
-      "qadagan": [
-        "əlcək",
-        "yumruq",
-        "ring",
-        "döyüş",
-        "nokaut"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id007",
-      "soz": "Şahmat",
-      "qadagan": [
-        "lövhə",
-        "fiqur",
-        "şah",
-        "mat",
-        "piyada"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id008",
-      "soz": "Qaçış",
-      "qadagan": [
-        "ayaq",
-        "sürət",
-        "marafon",
-        "stadion",
-        "tər"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id009",
-      "soz": "Güləş",
-      "qadagan": [
-        "xalça",
-        "tutmaq",
-        "pəhləvan",
-        "döyüş",
-        "yıxmaq"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "id010",
-      "soz": "Velosiped",
-      "qadagan": [
-        "pedal",
-        "sürmək",
-        "təkər",
-        "yol",
-        "idman"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id011",
-      "soz": "Xizək",
-      "qadagan": [
-        "qar",
-        "dağ",
-        "sürüşmək",
-        "qış",
-        "sürət"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id012",
-      "soz": "Cüdo",
-      "qadagan": [
-        "kimono",
-        "atmaq",
-        "yapon",
-        "döyüş",
-        "kəmər"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "id013",
-      "soz": "Atletika",
-      "qadagan": [
-        "stadion",
-        "yarış",
-        "qaçmaq",
-        "tullanmaq",
-        "medal"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "id014",
-      "soz": "Karate",
-      "qadagan": [
-        "zərbə",
-        "kəmər",
-        "yapon",
-        "döyüş",
-        "ayaq"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "id015",
-      "soz": "Bilyard",
-      "qadagan": [
-        "top",
-        "masa",
-        "dəlik",
-        "vurmaq",
-        "kiy"
-      ],
-      "kateqoriya": "İdman",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "y001",
-      "soz": "Plov",
-      "qadagan": [
-        "düyü",
-        "ət",
-        "bayram",
-        "qazan",
-        "Azərbaycan"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "y002",
-      "soz": "Dolma",
-      "qadagan": [
-        "yarpaq",
-        "ət",
-        "düyü",
-        "sarımaq",
-        "qatıq"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y003",
-      "soz": "Çay",
-      "qadagan": [
-        "içmək",
-        "isti",
-        "stəkan",
-        "qənd",
-        "armudu"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "y004",
-      "soz": "Dondurma",
-      "qadagan": [
-        "soyuq",
-        "şirin",
-        "süd",
-        "yay",
-        "kornet"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "y005",
-      "soz": "Kabab",
-      "qadagan": [
-        "ət",
-        "mangal",
-        "şiş",
-        "köz",
-        "bişirmək"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y006",
-      "soz": "Bal",
-      "qadagan": [
-        "arı",
-        "şirin",
-        "sarı",
-        "pətək",
-        "qızıl"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y007",
-      "soz": "Çörək",
-      "qadagan": [
-        "təndir",
-        "un",
-        "yemək",
-        "dilim",
-        "buğda"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "y008",
-      "soz": "Pendir",
-      "qadagan": [
-        "süd",
-        "ağ",
-        "çörək",
-        "duzlu",
-        "dilim"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y009",
-      "soz": "Alma",
-      "qadagan": [
-        "meyvə",
-        "qırmızı",
-        "ağac",
-        "dişləmək",
-        "şirin"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "y010",
-      "soz": "Qarpız",
-      "qadagan": [
-        "yaşıl",
-        "şirin",
-        "yay",
-        "böyük",
-        "çəyirdək"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y011",
-      "soz": "Şokolad",
-      "qadagan": [
-        "şirin",
-        "qəhvəyi",
-        "kakao",
-        "hədiyyə",
-        "dad"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y012",
-      "soz": "Pizza",
-      "qadagan": [
-        "italyan",
-        "xəmir",
-        "pendir",
-        "dilim",
-        "soba"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y013",
-      "soz": "Şorba",
-      "qadagan": [
-        "isti",
-        "qaşıq",
-        "kasa",
-        "su",
-        "içmək"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y014",
-      "soz": "Süd",
-      "qadagan": [
-        "inək",
-        "ağ",
-        "içmək",
-        "stəkan",
-        "pendir"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "y015",
-      "soz": "Yumurta",
-      "qadagan": [
-        "toyuq",
-        "ağ",
-        "sarı",
-        "bişirmək",
-        "qabıq"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "y016",
-      "soz": "Limon",
-      "qadagan": [
-        "sarı",
-        "turş",
-        "meyvə",
-        "sıxmaq",
-        "çay"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "y017",
-      "soz": "Qəhvə",
-      "qadagan": [
-        "qara",
-        "içmək",
-        "isti",
-        "oyaq",
-        "dən"
-      ],
-      "kateqoriya": "Yemək",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "t001",
-      "soz": "Telefon",
-      "qadagan": [
-        "zəng",
-        "mobil",
-        "ekran",
-        "danışmaq",
-        "cib"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "t002",
-      "soz": "İnternet",
-      "qadagan": [
-        "Wi-Fi",
-        "şəbəkə",
-        "sayt",
-        "onlayn",
-        "bağlantı"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "t003",
-      "soz": "Kompüter",
-      "qadagan": [
-        "ekran",
-        "klaviatura",
-        "iş",
-        "proqram",
-        "masa"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "t004",
-      "soz": "Robot",
-      "qadagan": [
-        "maşın",
-        "süni",
-        "metal",
-        "proqram",
-        "gələcək"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "t005",
-      "soz": "Kamera",
-      "qadagan": [
-        "şəkil",
-        "çəkmək",
-        "foto",
-        "video",
-        "obyektiv"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "t006",
-      "soz": "Televizor",
-      "qadagan": [
-        "ekran",
-        "baxmaq",
-        "kanal",
-        "pult",
-        "divar"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "t007",
-      "soz": "Printer",
-      "qadagan": [
-        "kağız",
-        "çap",
-        "mürəkkəb",
-        "sənəd",
-        "ofis"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "t008",
-      "soz": "Radio",
-      "qadagan": [
-        "dinləmək",
-        "dalğa",
-        "səs",
-        "kanal",
-        "musiqi"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "t009",
-      "soz": "Batareya",
-      "qadagan": [
-        "enerji",
-        "dolmaq",
-        "telefon",
-        "güc",
-        "bitmək"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "t010",
-      "soz": "Klaviatura",
-      "qadagan": [
-        "düymə",
-        "yazmaq",
-        "hərf",
-        "barmaq",
-        "kompüter"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "t011",
-      "soz": "Süni intellekt",
-      "qadagan": [
-        "süni",
-        "ağıl",
-        "cavab",
-        "proqram",
-        "öyrənmək"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "t012",
-      "soz": "Dron",
-      "qadagan": [
-        "uçmaq",
-        "pərvanə",
-        "hava",
-        "çəkmək",
-        "pult"
-      ],
-      "kateqoriya": "Texnologiya",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "tb001",
-      "soz": "Vulkan",
-      "qadagan": [
-        "dağ",
-        "lava",
-        "püskürmə",
-        "isti",
-        "partlayış"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "tb002",
-      "soz": "Göy qurşağı",
-      "qadagan": [
-        "rəng",
-        "yağış",
-        "günəş",
-        "qövs",
-        "səma"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "tb003",
-      "soz": "Şəlalə",
-      "qadagan": [
-        "su",
-        "tökülmək",
-        "yüksək",
-        "çay",
-        "qaya"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "tb004",
-      "soz": "Səhra",
-      "qadagan": [
-        "qum",
-        "isti",
-        "quru",
-        "dəvə",
-        "susuz"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "tb005",
-      "soz": "İldırım",
-      "qadagan": [
-        "göy",
-        "işıq",
-        "yağış",
-        "səs",
-        "bulud"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "tb006",
-      "soz": "Külək",
-      "qadagan": [
-        "əsmək",
-        "hava",
-        "soyuq",
-        "ağac",
-        "hərəkət"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "tb007",
-      "soz": "Qar",
-      "qadagan": [
-        "ağ",
-        "soyuq",
-        "qış",
-        "yağmaq",
-        "dənə"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "tb008",
-      "soz": "Günəş",
-      "qadagan": [
-        "işıq",
-        "isti",
-        "gündüz",
-        "sarı",
-        "səma"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "tb009",
-      "soz": "Ay",
-      "qadagan": [
-        "gecə",
-        "göy",
-        "dəyirmi",
-        "işıq",
-        "ulduz"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "tb010",
-      "soz": "Dəniz",
-      "qadagan": [
-        "su",
-        "dalğa",
-        "mavi",
-        "sahil",
-        "duzlu"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "tb011",
-      "soz": "Meşə",
-      "qadagan": [
-        "ağac",
-        "yaşıl",
-        "heyvan",
-        "kölgə",
-        "böyük"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "tb012",
-      "soz": "Çeşmə",
-      "qadagan": [
-        "su",
-        "bulaq",
-        "içmək",
-        "soyuq",
-        "dağ"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "tb013",
-      "soz": "Bulud",
-      "qadagan": [
-        "göy",
-        "ağ",
-        "yağış",
-        "səma",
-        "üzmək"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "tb014",
-      "soz": "Zəlzələ",
-      "qadagan": [
-        "yer",
-        "titrəmək",
-        "dağıntı",
-        "təhlükə",
-        "sarsıntı"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "tb015",
-      "soz": "Ulduz",
-      "qadagan": [
-        "gecə",
-        "göy",
-        "parlamaq",
-        "kosmos",
-        "işıq"
-      ],
-      "kateqoriya": "Təbiət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p001",
-      "soz": "Həkim",
-      "qadagan": [
-        "xəstə",
-        "müalicə",
-        "xəstəxana",
-        "dərman",
-        "ağ xalat"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "p002",
-      "soz": "Müəllim",
-      "qadagan": [
-        "məktəb",
-        "dərs",
-        "şagird",
-        "lövhə",
-        "öyrətmək"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "p003",
-      "soz": "Aşpaz",
-      "qadagan": [
-        "yemək",
-        "bişirmək",
-        "restoran",
-        "mətbəx",
-        "papaq"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p004",
-      "soz": "Pilot",
-      "qadagan": [
-        "təyyarə",
-        "uçmaq",
-        "göy",
-        "hava limanı",
-        "kabin"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p005",
-      "soz": "Yanğınsöndürən",
-      "qadagan": [
-        "od",
-        "su",
-        "xilas",
-        "tüstü",
-        "maşın"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "p006",
-      "soz": "Polis",
-      "qadagan": [
-        "qanun",
-        "cinayət",
-        "forma",
-        "həbs",
-        "təhlükəsizlik"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p007",
-      "soz": "Müğənni",
-      "qadagan": [
-        "səs",
-        "mahnı",
-        "səhnə",
-        "mikrofon",
-        "oxumaq"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p008",
-      "soz": "Rəssam",
-      "qadagan": [
-        "şəkil",
-        "fırça",
-        "boya",
-        "kətan",
-        "çəkmək"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p009",
-      "soz": "Bərbər",
-      "qadagan": [
-        "saç",
-        "qayçı",
-        "kəsmək",
-        "salon",
-        "üz"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p010",
-      "soz": "Dərzi",
-      "qadagan": [
-        "paltar",
-        "tikmək",
-        "iynə",
-        "parça",
-        "ölçü"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "p011",
-      "soz": "Sürücü",
-      "qadagan": [
-        "maşın",
-        "yol",
-        "sükan",
-        "sürmək",
-        "sərnişin"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "p012",
-      "soz": "Fermer",
-      "qadagan": [
-        "torpaq",
-        "əkin",
-        "heyvan",
-        "kənd",
-        "məhsul"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "p013",
-      "soz": "Jurnalist",
-      "qadagan": [
-        "xəbər",
-        "qəzet",
-        "müsahibə",
-        "yazmaq",
-        "məlumat"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "p014",
-      "soz": "Hakim",
-      "qadagan": [
-        "məhkəmə",
-        "qanun",
-        "qərar",
-        "ədalət",
-        "cəza"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "p015",
-      "soz": "Memar",
-      "qadagan": [
-        "bina",
-        "layihə",
-        "tikinti",
-        "plan",
-        "çəkmək"
-      ],
-      "kateqoriya": "Peşələr",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "m001",
-      "soz": "Soyuducu",
-      "qadagan": [
-        "soyuq",
-        "yemək",
-        "mətbəx",
-        "qapı",
-        "saxlamaq"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m002",
-      "soz": "Saat",
-      "qadagan": [
-        "vaxt",
-        "əqrəb",
-        "dəqiqə",
-        "divar",
-        "zəng"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m003",
-      "soz": "Açar",
-      "qadagan": [
-        "qapı",
-        "qıfıl",
-        "açmaq",
-        "cib",
-        "metal"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m004",
-      "soz": "Çətir",
-      "qadagan": [
-        "yağış",
-        "açmaq",
-        "islanmaq",
-        "tutmaq",
-        "günəş"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m005",
-      "soz": "Güzgü",
-      "qadagan": [
-        "baxmaq",
-        "əks",
-        "şüşə",
-        "üz",
-        "divar"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "m006",
-      "soz": "Yastıq",
-      "qadagan": [
-        "yatmaq",
-        "baş",
-        "yumşaq",
-        "çarpayı",
-        "yuxu"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m007",
-      "soz": "Süpürgə",
-      "qadagan": [
-        "təmizlik",
-        "döşəmə",
-        "toz",
-        "süpürmək",
-        "ev"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m008",
-      "soz": "Şam",
-      "qadagan": [
-        "işıq",
-        "alov",
-        "mum",
-        "qaranlıq",
-        "yanmaq"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "m009",
-      "soz": "Qələm",
-      "qadagan": [
-        "yazmaq",
-        "kağız",
-        "mürəkkəb",
-        "əl",
-        "məktəb"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "m010",
-      "soz": "Kitab",
-      "qadagan": [
-        "oxumaq",
-        "səhifə",
-        "yazı",
-        "kitabxana",
-        "qapaq"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "m011",
-      "soz": "Pəncərə",
-      "qadagan": [
-        "şüşə",
-        "baxmaq",
-        "açmaq",
-        "otaq",
-        "işıq"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m012",
-      "soz": "Stul",
-      "qadagan": [
-        "oturmaq",
-        "ayaq",
-        "masa",
-        "taxta",
-        "otaq"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "m013",
-      "soz": "Sabun",
-      "qadagan": [
-        "təmizlik",
-        "su",
-        "köpük",
-        "yumaq",
-        "ətirli"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m014",
-      "soz": "Çəngəl",
-      "qadagan": [
-        "yemək",
-        "masa",
-        "dəmir",
-        "dişli",
-        "qaşıq"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "m015",
-      "soz": "Lampa",
-      "qadagan": [
-        "işıq",
-        "yanmaq",
-        "otaq",
-        "elektrik",
-        "parlaq"
-      ],
-      "kateqoriya": "Məişət",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c001",
-      "soz": "Bakı",
-      "qadagan": [
-        "paytaxt",
-        "Azərbaycan",
-        "şəhər",
-        "Xəzər",
-        "neft"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "c002",
-      "soz": "Xəzər",
-      "qadagan": [
-        "dəniz",
-        "su",
-        "Bakı",
-        "sahil",
-        "balıq"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c003",
-      "soz": "Dağ",
-      "qadagan": [
-        "hündür",
-        "zirvə",
-        "qar",
-        "qalxmaq",
-        "yamac"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "c004",
-      "soz": "Körpü",
-      "qadagan": [
-        "çay",
-        "keçmək",
-        "tikmək",
-        "iki",
-        "birləşdirmək"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c005",
-      "soz": "Ada",
-      "qadagan": [
-        "su",
-        "dəniz",
-        "ətraf",
-        "torpaq",
-        "üzmək"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c006",
-      "soz": "Vətən",
-      "qadagan": [
-        "ölkə",
-        "doğma",
-        "torpaq",
-        "sevgi",
-        "bayraq"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "c007",
-      "soz": "Şəhər",
-      "qadagan": [
-        "bina",
-        "küçə",
-        "insan",
-        "böyük",
-        "paytaxt"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "c008",
-      "soz": "Kənd",
-      "qadagan": [
-        "təbiət",
-        "sakit",
-        "ferma",
-        "balaca",
-        "şəhər"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c009",
-      "soz": "Göl",
-      "qadagan": [
-        "su",
-        "durğun",
-        "balıq",
-        "dağ",
-        "sahil"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c010",
-      "soz": "Sərhəd",
-      "qadagan": [
-        "ölkə",
-        "xətt",
-        "keçmək",
-        "pasport",
-        "ayırmaq"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "c011",
-      "soz": "Bayraq",
-      "qadagan": [
-        "ölkə",
-        "rəng",
-        "dirək",
-        "vətən",
-        "simvol"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c012",
-      "soz": "Xəritə",
-      "qadagan": [
-        "yol",
-        "ölkə",
-        "baxmaq",
-        "istiqamət",
-        "kağız"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "c013",
-      "soz": "Qitə",
-      "qadagan": [
-        "böyük",
-        "torpaq",
-        "Asiya",
-        "dünya",
-        "materik"
-      ],
-      "kateqoriya": "Coğrafiya",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc001",
-      "soz": "Sevgi",
-      "qadagan": [
-        "ürək",
-        "hiss",
-        "sevmək",
-        "qəlb",
-        "münasibət"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc002",
-      "soz": "Yuxu",
-      "qadagan": [
-        "yatmaq",
-        "gecə",
-        "çarpayı",
-        "göz",
-        "yorğun"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mc003",
-      "soz": "Vaxt",
-      "qadagan": [
-        "saat",
-        "dəqiqə",
-        "keçmək",
-        "gec",
-        "tez"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc004",
-      "soz": "Gülüş",
-      "qadagan": [
-        "gülmək",
-        "şən",
-        "lətifə",
-        "sevinc",
-        "üz"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc005",
-      "soz": "Dostluq",
-      "qadagan": [
-        "dost",
-        "yoldaş",
-        "birlikdə",
-        "etibar",
-        "münasibət"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc006",
-      "soz": "Qorxu",
-      "qadagan": [
-        "titrəmək",
-        "təhlükə",
-        "qaranlıq",
-        "hiss",
-        "qaçmaq"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc007",
-      "soz": "Sevinc",
-      "qadagan": [
-        "xoşbəxt",
-        "gülmək",
-        "şad",
-        "hiss",
-        "bayram"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc008",
-      "soz": "Kədər",
-      "qadagan": [
-        "ağlamaq",
-        "qəm",
-        "üzgün",
-        "göz yaşı",
-        "hiss"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc009",
-      "soz": "Yalan",
-      "qadagan": [
-        "aldatmaq",
-        "danışmaq",
-        "gizlətmək",
-        "həqiqət",
-        "doğru"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc010",
-      "soz": "Sülh",
-      "qadagan": [
-        "müharibə",
-        "dinclik",
-        "sakit",
-        "dünya",
-        "dostluq"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc011",
-      "soz": "Arzu",
-      "qadagan": [
-        "istəmək",
-        "gələcək",
-        "ulduz",
-        "ürək",
-        "xəyal"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mc012",
-      "soz": "Cəsarət",
-      "qadagan": [
-        "qorxmaz",
-        "igid",
-        "risk",
-        "güc",
-        "ürək"
-      ],
-      "kateqoriya": "Mücərrəd",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "n001",
-      "soz": "Təyyarə",
-      "qadagan": [
-        "uçmaq",
-        "göy",
-        "qanad",
-        "hava limanı",
-        "pilot"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "n002",
-      "soz": "Avtobus",
-      "qadagan": [
-        "sərnişin",
-        "dayanacaq",
-        "böyük",
-        "şəhər",
-        "bilet"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "n003",
-      "soz": "Qatar",
-      "qadagan": [
-        "rels",
-        "vaqon",
-        "stansiya",
-        "sürət",
-        "lokomotiv"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "n004",
-      "soz": "Gəmi",
-      "qadagan": [
-        "su",
-        "dəniz",
-        "üzmək",
-        "böyük",
-        "liman"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "n005",
-      "soz": "Metro",
-      "qadagan": [
-        "yeraltı",
-        "qatar",
-        "şəhər",
-        "stansiya",
-        "sürət"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "n006",
-      "soz": "Taksi",
-      "qadagan": [
-        "maşın",
-        "sürücü",
-        "sərnişin",
-        "sarı",
-        "ödəniş"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "n007",
-      "soz": "Motosiklet",
-      "qadagan": [
-        "iki təkər",
-        "sürət",
-        "sürmək",
-        "dəbilqə",
-        "motor"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "n008",
-      "soz": "Helikopter",
-      "qadagan": [
-        "pərvanə",
-        "uçmaq",
-        "hava",
-        "fırlanmaq",
-        "göy"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "n009",
-      "soz": "Avtomobil",
-      "qadagan": [
-        "maşın",
-        "təkər",
-        "sürmək",
-        "yol",
-        "motor"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "asan"
-    },
-    {
-      "id": "n010",
-      "soz": "Raket",
-      "qadagan": [
-        "kosmos",
-        "uçmaq",
-        "sürət",
-        "yanacaq",
-        "ulduz"
-      ],
-      "kateqoriya": "Nəqliyyat",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mu001",
-      "soz": "Gitara",
-      "qadagan": [
-        "simlər",
-        "çalmaq",
-        "musiqi",
-        "alət",
-        "taxta"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mu002",
-      "soz": "Piano",
-      "qadagan": [
-        "düymə",
-        "çalmaq",
-        "ağ-qara",
-        "musiqi",
-        "alət"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mu003",
-      "soz": "Skripka",
-      "qadagan": [
-        "simlər",
-        "yay",
-        "çalmaq",
-        "klassik",
-        "alət"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mu004",
-      "soz": "Nağara",
-      "qadagan": [
-        "vurmaq",
-        "ritm",
-        "dəri",
-        "səs",
-        "alət"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mu005",
-      "soz": "Tar",
-      "qadagan": [
-        "simlər",
-        "Azərbaycan",
-        "çalmaq",
-        "milli",
-        "alət"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mu006",
-      "soz": "Mahnı",
-      "qadagan": [
-        "oxumaq",
-        "söz",
-        "melodiya",
-        "dinləmək",
-        "müğənni"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mu007",
-      "soz": "Konsert",
-      "qadagan": [
-        "səhnə",
-        "müğənni",
-        "tamaşaçı",
-        "bilet",
-        "musiqi"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mu008",
-      "soz": "Rəqs",
-      "qadagan": [
-        "hərəkət",
-        "musiqi",
-        "ayaq",
-        "oynamaq",
-        "ahəng"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "orta"
-    },
-    {
-      "id": "mu009",
-      "soz": "Orkestr",
-      "qadagan": [
-        "çoxlu",
-        "alət",
-        "dirijor",
-        "səhnə",
-        "klassik"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "cetin"
-    },
-    {
-      "id": "mu010",
-      "soz": "Ritm",
-      "qadagan": [
-        "vurğu",
-        "musiqi",
-        "təkrar",
-        "rəqs",
-        "nağara"
-      ],
-      "kateqoriya": "Musiqi",
-      "cetinlik": "cetin"
-    }
+    {"id": "h001", "soz": "Fil", "qadagan": ["xortum", "böyük", "Afrika", "qulaq", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h002", "soz": "Pişik", "qadagan": ["miyov", "ev", "siçan", "tüklü", "pəncə"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h003", "soz": "It", "qadagan": ["hürür", "ev", "sədaqət", "quyruq", "dost"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h004", "soz": "Aslan", "qadagan": ["kral", "yele", "meşə", "savanna", "nərə"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "h005", "soz": "Pinqvin", "qadagan": ["qütb", "soyuq", "qara", "üzür", "uça bilmir"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "h006", "soz": "Zürafə", "qadagan": ["uzun", "boyun", "Afrika", "ləkə", "hündür"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h007", "soz": "Balıq", "qadagan": ["su", "üzgəc", "dəniz", "tutmaq", "pul"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h008", "soz": "Kəpənək", "qadagan": ["qanad", "rəngli", "çiçək", "tırtıl", "uçur"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "h009", "soz": "At", "qadagan": ["minmək", "yarış", "nal", "sürətli", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h010", "soz": "İnək", "qadagan": ["süd", "ferma", "ot", "buynuz", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h011", "soz": "Qoyun", "qadagan": ["yun", "sürü", "otlaq", "quzu", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h012", "soz": "Dovşan", "qadagan": ["uzun qulaq", "kök", "tullanmaq", "ağ", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h013", "soz": "Ayı", "qadagan": ["bal", "meşə", "iri", "qış yuxusu", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h014", "soz": "Canavar", "qadagan": ["sürü", "vəhşi", "ulamaq", "meşə", "yırtıcı"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h015", "soz": "Tülkü", "qadagan": ["hiyləgər", "qırmızı", "quyruq", "meşə", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h016", "soz": "Toyuq", "qadagan": ["yumurta", "cücə", "qanad", "ferma", "quş"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h017", "soz": "Xoruz", "qadagan": ["banlamaq", "səhər", "toyuq", "qırmızı", "quş"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "h018", "soz": "Ördək", "qadagan": ["göl", "sarı dimdik", "üzmək", "quş", "su"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "i001", "soz": "Futbol", "qadagan": ["top", "qol", "stadion", "komanda", "qapı"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i002", "soz": "Basketbol", "qadagan": ["top", "səbət", "atmaq", "hündür", "NBA"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i003", "soz": "Üzgüçülük", "qadagan": ["su", "hovuz", "üzmək", "qol", "ayaq"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i004", "soz": "Boks", "qadagan": ["yumruq", "rinq", "döyüş", "əlcək", "raund"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "i005", "soz": "Tennis", "qadagan": ["raket", "top", "kort", "tor", "ser"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "i006", "soz": "Şahmat", "qadagan": ["lövhə", "fiqur", "şah", "piyada", "mat"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "i007", "soz": "Olimpiya", "qadagan": ["oyun", "medal", "beynəlxalq", "qızıl", "məşəl"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "i008", "soz": "Velosiped", "qadagan": ["təkər", "sürmək", "pedal", "iki", "yol"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i009", "soz": "Voleybol", "qadagan": ["tor", "top", "komanda", "əllə", "meydança"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i010", "soz": "Qaçış", "qadagan": ["sürət", "yarış", "ayaq", "marafon", "stadion"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i011", "soz": "Güləş", "qadagan": ["rəqib", "tatami", "güc", "idmançı", "tutmaq"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i012", "soz": "Karate", "qadagan": ["kəmər", "döyüş", "ustad", "zərbə", "idman"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i013", "soz": "Fitness", "qadagan": ["zal", "məşq", "çəki", "sağlamlıq", "bədən"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "i014", "soz": "Həndbol", "qadagan": ["top", "qol", "komanda", "əllə", "meydança"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "y001", "soz": "Plov", "qadagan": ["düyü", "ət", "bayram", "Azərbaycan", "qazan"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y002", "soz": "Dolma", "qadagan": ["üzüm", "yarpaq", "ət", "qatıq", "bişirmək"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "y003", "soz": "Kabab", "qadagan": ["ət", "manqal", "şiş", "tüstü", "yandırmaq"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y004", "soz": "Çörək", "qadagan": ["un", "təndir", "bişirmək", "tikə", "qızıl"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y005", "soz": "Çay", "qadagan": ["stəkan", "isti", "şəkər", "armudu", "içmək"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y006", "soz": "Pizza", "qadagan": ["italyan", "pendir", "xəmir", "sous", "dilim"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y007", "soz": "Şirniyyat", "qadagan": ["şirin", "şəkər", "tort", "bişirmək", "desert"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "y008", "soz": "Bal", "qadagan": ["arı", "şirin", "pətək", "çiçək", "sarı"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y009", "soz": "Burger", "qadagan": ["ət", "çörək", "fast food", "sous", "sendviç"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y010", "soz": "Makaron", "qadagan": ["italyan", "xəmir", "bişirmək", "sous", "uzun"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y011", "soz": "Pendir", "qadagan": ["süd", "duzlu", "sarı", "kəsmik", "qida"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y012", "soz": "Qarpız", "qadagan": ["yay", "qırmızı", "tum", "meyvə", "şirin"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y013", "soz": "Alma", "qadagan": ["meyvə", "ağac", "qırmızı", "yaşıl", "bağ"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y014", "soz": "Armud", "qadagan": ["meyvə", "şirin", "ağac", "sarı", "bağ"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y015", "soz": "Banan", "qadagan": ["sarı", "meyvə", "qabıq", "uzun", "tropik"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "y016", "soz": "Portağal", "qadagan": ["sitrus", "narıncı", "meyvə", "şirə", "qabıq"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "t001", "soz": "Telefon", "qadagan": ["zəng", "mobil", "ekran", "danışmaq", "cib"], "kateqoriya": "Texnologiya", "cetinlik": "asan"},
+    {"id": "t002", "soz": "Kompüter", "qadagan": ["klaviatura", "ekran", "maus", "proqram", "internet"], "kateqoriya": "Texnologiya", "cetinlik": "asan"},
+    {"id": "t003", "soz": "İnternet", "qadagan": ["şəbəkə", "Wi-Fi", "sayt", "axtarış", "qoşulmaq"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "t004", "soz": "Robot", "qadagan": ["maşın", "süni", "avtomatik", "insan", "metal"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "t005", "soz": "Kamera", "qadagan": ["şəkil", "çəkmək", "lens", "foto", "video"], "kateqoriya": "Texnologiya", "cetinlik": "asan"},
+    {"id": "t006", "soz": "Drone", "qadagan": ["uçmaq", "pərvanə", "havadan", "idarə", "kiçik"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "t007", "soz": "Klaviatura", "qadagan": ["düymə", "yazmaq", "kompüter", "hərf", "barmaq"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "t008", "soz": "Televizor", "qadagan": ["ekran", "kanal", "uzaqdan idarə", "veriliş", "izləmək"], "kateqoriya": "Texnologiya", "cetinlik": "asan"},
+    {"id": "t009", "soz": "Noutbuk", "qadagan": ["kompüter", "daşınan", "ekran", "klaviatura", "batareya"], "kateqoriya": "Texnologiya", "cetinlik": "asan"},
+    {"id": "t010", "soz": "Qulaqlıq", "qadagan": ["musiqi", "qulaq", "səs", "telefon", "dinləmək"], "kateqoriya": "Texnologiya", "cetinlik": "asan"},
+    {"id": "t011", "soz": "Printer", "qadagan": ["kağız", "çap", "mürəkkəb", "ofis", "sənəd"], "kateqoriya": "Texnologiya", "cetinlik": "asan"},
+    {"id": "tb001", "soz": "Dəniz", "qadagan": ["su", "duzlu", "dalğa", "sahil", "mavi"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "tb002", "soz": "Dağ", "qadagan": ["hündür", "zirvə", "qaya", "qar", "dırmaşmaq"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "tb003", "soz": "Meşə", "qadagan": ["ağac", "yaşıl", "heyvan", "yarpaq", "sıx"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "tb004", "soz": "Şəlalə", "qadagan": ["su", "tökülmək", "yüksək", "səs", "qaya"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "tb005", "soz": "Vulkan", "qadagan": ["lava", "partlayış", "dağ", "isti", "kül"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "tb006", "soz": "Göy qurşağı", "qadagan": ["rəng", "yağış", "günəş", "arka", "yeddi"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "tb008", "soz": "Bulud", "qadagan": ["göy", "ağ", "yağış", "hava", "səma"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "tb009", "soz": "Yağış", "qadagan": ["su", "bulud", "islanmaq", "hava", "damcı"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "tb010", "soz": "Qar", "qadagan": ["ağ", "qış", "soyuq", "yağmaq", "buz"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "tb011", "soz": "Külək", "qadagan": ["əsmək", "hava", "soyuq", "fırtına", "güc"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "p001", "soz": "Həkim", "qadagan": ["xəstə", "müalicə", "xəstəxana", "dərman", "ağ xalat"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "p002", "soz": "Müəllim", "qadagan": ["məktəb", "şagird", "dərs", "lövhə", "öyrətmək"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "p003", "soz": "Pilot", "qadagan": ["təyyarə", "uçmaq", "kabin", "hava", "yolçu"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "p004", "soz": "Aşpaz", "qadagan": ["yemək", "mətbəx", "bişirmək", "restoran", "papaq"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "p005", "soz": "Polis", "qadagan": ["cinayət", "qanun", "forma", "maşın", "tutmaq"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "p006", "soz": "Astronavt", "qadagan": ["kosmos", "raket", "skafandr", "ulduz", "orbit"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "p007", "soz": "Mühəndis", "qadagan": ["layihə", "hesab", "tikinti", "texnika", "peşə"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "p008", "soz": "Sürücü", "qadagan": ["maşın", "yol", "sükan", "nəqliyyat", "idarə"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "p009", "soz": "Satıcı", "qadagan": ["mağaza", "müştəri", "pul", "məhsul", "almaq"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "p010", "soz": "Bərbər", "qadagan": ["saç", "kəsmək", "güzgü", "qayçı", "salon"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "m001", "soz": "Yorğan", "qadagan": ["yatmaq", "isti", "yataq", "örtmək", "qış"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "m002", "soz": "Soyuducu", "qadagan": ["mətbəx", "soyuq", "yemək", "qapı", "elektrik"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "m003", "soz": "Süpürgə", "qadagan": ["təmiz", "yer", "tikan", "toz", "silmək"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "m004", "soz": "Açar", "qadagan": ["qapı", "kilid", "açmaq", "metal", "cib"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "m005", "soz": "Saat", "qadagan": ["vaxt", "əqrəb", "dəqiqə", "qol", "divar"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "m006", "soz": "Stul", "qadagan": ["oturmaq", "ayaq", "mebel", "taxta", "otaq"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "m007", "soz": "Masa", "qadagan": ["üst", "yemək", "mebel", "otaq", "ayaq"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "m008", "soz": "Yastıq", "qadagan": ["baş", "yatmaq", "yumşaq", "yataq", "yorğan"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "m009", "soz": "Lampa", "qadagan": ["işıq", "otaq", "elektrik", "yanmaq", "tavan"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "c001", "soz": "Bakı", "qadagan": ["paytaxt", "Azərbaycan", "Xəzər", "şəhər", "neft"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "c002", "soz": "Paris", "qadagan": ["Fransa", "Eyfel", "paytaxt", "sevgi", "qüllə"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "c003", "soz": "Səhra", "qadagan": ["qum", "isti", "su yox", "dəvə", "günəş"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "c004", "soz": "Adalar", "qadagan": ["dəniz", "su", "ətraf", "torpaq", "üzmək"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "c005", "soz": "Xəzər", "qadagan": ["dəniz", "Bakı", "su", "neft", "sahil"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "c006", "soz": "Türkiyə", "qadagan": ["Ankara", "ölkə", "İstanbul", "qonşu", "bayraq"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "c007", "soz": "İtaliya", "qadagan": ["Roma", "ölkə", "pizza", "Avropa", "bayraq"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "c008", "soz": "Yaponiya", "qadagan": ["Tokio", "ölkə", "Asiya", "sakura", "ada"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "mc001", "soz": "Sevgi", "qadagan": ["ürək", "hiss", "sevmək", "romantik", "cüt"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "mc002", "soz": "Azadlıq", "qadagan": ["sərbəst", "hüquq", "qul", "müstəqil", "pərvazlanmaq"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "mc003", "soz": "Dostluq", "qadagan": ["dost", "sədaqət", "birgə", "etibar", "köməy"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "mc004", "soz": "Xəyal", "qadagan": ["arzu", "yatmaq", "düşünmək", "gerçək yox", "gələcək"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "mc005", "soz": "Qorxu", "qadagan": ["qaranlıq", "qaçmaq", "titrəmək", "his", "kabus"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "mc006", "soz": "Vaxt", "qadagan": ["saat", "dəqiqə", "keçmək", "gün", "gec"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "mc007", "soz": "Xoşbəxtlik", "qadagan": ["sevinc", "gülmək", "məmnun", "hiss", "şad"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "mc008", "soz": "Ümid", "qadagan": ["gələcək", "inanmaq", "arzu", "gözləmək", "işıq"], "kateqoriya": "Mücərrəd", "cetinlik": "asan"},
+    {"id": "mc009", "soz": "Sevinc", "qadagan": ["şad", "xoşbəxt", "gülmək", "hiss", "bayram"], "kateqoriya": "Mücərrəd", "cetinlik": "asan"},
+    {"id": "d001", "soz": "Maşın", "qadagan": ["sürmək", "təkər", "mühərrik", "yol", "nəqliyyat"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d002", "soz": "Qatar", "qadagan": ["rels", "stansiya", "vaqon", "səyahət", "nəqliyyat"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d003", "soz": "Təyyarə", "qadagan": ["uçmaq", "hava", "pilot", "aeroport", "qanad"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d004", "soz": "Avtobus", "qadagan": ["dayanacaq", "sərnişin", "marşrut", "sürücü", "nəqliyyat"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d005", "soz": "Motosiklet", "qadagan": ["iki təkər", "dəbilqə", "sürət", "sürmək", "nəqliyyat"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d006", "soz": "Gəmi", "qadagan": ["dəniz", "liman", "üzmək", "kapitan", "su"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d007", "soz": "Veloskuter", "qadagan": ["elektrik", "iki təkər", "şəhər", "sürmək", "batareya"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d008", "soz": "Baş", "qadagan": ["saç", "üz", "boyun", "bədən", "beyin"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d009", "soz": "Göz", "qadagan": ["görmək", "kirpik", "üz", "baxmaq", "rəng"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d010", "soz": "Burun", "qadagan": ["iy", "nəfəs", "üz", "qoxu", "deşik"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d011", "soz": "Qulaq", "qadagan": ["eşitmək", "səs", "baş", "dinləmək", "insan"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d012", "soz": "Ağız", "qadagan": ["danışmaq", "diş", "dil", "yemək", "üz"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d013", "soz": "Əl", "qadagan": ["barmaq", "tutmaq", "qol", "ovuc", "insan"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d014", "soz": "Ayaq", "qadagan": ["yerimək", "qaçmaq", "diz", "bədən", "alt"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d015", "soz": "Saç", "qadagan": ["baş", "kəsmək", "bərbər", "uzun", "daramaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d016", "soz": "Köynək", "qadagan": ["geyinmək", "qol", "paltar", "düymə", "üst"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d017", "soz": "Şalvar", "qadagan": ["ayaq", "geyinmək", "cib", "kəmər", "paltar"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d018", "soz": "Ayaqqabı", "qadagan": ["geymək", "ayaq", "bağ", "altlıq", "cüt"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d019", "soz": "Papaq", "qadagan": ["baş", "günəş", "geyim", "örtmək", "şlyapa"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d020", "soz": "Corab", "qadagan": ["ayaq", "cüt", "geyim", "isti", "ayaqqabı"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d021", "soz": "Pencək", "qadagan": ["üst", "geyim", "qol", "rəsmi", "düymə"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d022", "soz": "Məktəb", "qadagan": ["şagird", "dərs", "müəllim", "sinif", "təhsil"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d023", "soz": "Kitab", "qadagan": ["oxumaq", "səhifə", "müəllif", "mətn", "kitabxana"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d024", "soz": "Qələm", "qadagan": ["yazmaq", "mürəkkəb", "dəftər", "karandaş", "əl"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d025", "soz": "Dəftər", "qadagan": ["səhifə", "yazmaq", "məktəb", "xətt", "vərəq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d026", "soz": "Sinif", "qadagan": ["məktəb", "şagird", "müəllim", "parta", "otaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d027", "soz": "Parta", "qadagan": ["məktəb", "oturmaq", "sinif", "şagird", "masa"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d028", "soz": "Gitara", "qadagan": ["sim", "musiqi", "çalmaq", "alət", "akkord"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d029", "soz": "Piano", "qadagan": ["düymə", "musiqi", "çalmaq", "ağ-qara", "alət"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d030", "soz": "Nağara", "qadagan": ["vurmaq", "ritm", "toy", "musiqi", "alət"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d031", "soz": "Mikrofon", "qadagan": ["səs", "oxumaq", "səhnə", "danışmaq", "musiqi"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d032", "soz": "Qapı", "qadagan": ["açmaq", "bağlamaq", "otaq", "ev", "giriş"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d033", "soz": "Pəncərə", "qadagan": ["şüşə", "ev", "açmaq", "işıq", "divar"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d034", "soz": "Divan", "qadagan": ["oturmaq", "otaq", "mebel", "yumşaq", "ev"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d035", "soz": "Şkaf", "qadagan": ["paltar", "qapı", "mebel", "saxlamaq", "otaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d036", "soz": "Güzgü", "qadagan": ["baxmaq", "əks", "üz", "şüşə", "özünü"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d037", "soz": "Xalça", "qadagan": ["döşəmə", "otaq", "ev", "naxış", "sərmək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d038", "soz": "Toy", "qadagan": ["gəlin", "bəy", "şənlik", "evlənmək", "qonaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d039", "soz": "Ad günü", "qadagan": ["tort", "şam", "hədiyyə", "təbrik", "bayram"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d040", "soz": "Hədiyyə", "qadagan": ["vermək", "paket", "sürpriz", "təbrik", "almaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d041", "soz": "Top", "qadagan": ["oynamaq", "yumru", "idman", "atmaq", "tutmaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d042", "soz": "Oyuncaq", "qadagan": ["uşaq", "oynamaq", "hədiyyə", "plastik", "əyləncə"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d043", "soz": "Kukla", "qadagan": ["oyuncaq", "uşaq", "qız", "saç", "oynamaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d044", "soz": "Fənər", "qadagan": ["işıq", "qaranlıq", "batareya", "əl", "gecə"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d045", "soz": "Çamadan", "qadagan": ["səyahət", "əşya", "hava limanı", "daşımaq", "baqaj"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d046", "soz": "Çətir", "qadagan": ["yağış", "islanmaq", "açmaq", "hava", "örtmək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d047", "soz": "Eynək", "qadagan": ["göz", "görmək", "şüşə", "taxmaq", "çərçivə"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d048", "soz": "Üzük", "qadagan": ["barmaq", "qızıl", "zinət", "toy", "taxmaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d049", "soz": "Boyunbağı", "qadagan": ["zinət", "qızıl", "taxmaq", "hədiyyə", "boyun"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d050", "soz": "Pul", "qadagan": ["almaq", "satmaq", "manat", "kağız", "ödəmək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d051", "soz": "Kompas", "qadagan": ["şimal", "istiqamət", "xəritə", "səyahət", "ox"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d052", "soz": "Qlobus", "qadagan": ["dünya", "xəritə", "yer kürəsi", "coğrafiya", "fırlatmaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d053", "soz": "Binokl", "qadagan": ["uzaq", "görmək", "iki göz", "baxmaq", "müşahidə"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d054", "soz": "Mayak", "qadagan": ["dəniz", "işıq", "gəmi", "sahil", "qüllə"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d055", "soz": "Lift", "qadagan": ["mərtəbə", "yuxarı", "aşağı", "bina", "qapı"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d056", "soz": "Tunel", "qadagan": ["yeraltı", "yol", "keçid", "dağ", "qaranlıq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d057", "soz": "Körpü", "qadagan": ["çay", "keçmək", "yol", "tikili", "birləşdirmək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d058", "soz": "Fəvvarə", "qadagan": ["su", "park", "şırnaq", "meydan", "bəzək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d059", "soz": "Akvapark", "qadagan": ["su", "əyləncə", "sürüşkən", "yay", "hovuz"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d060", "soz": "Karusel", "qadagan": ["park", "əyləncə", "fırlanmaq", "uşaq", "atraksion"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d061", "soz": "Qayçı", "qadagan": ["kəsmək", "iki", "kağız", "metal", "bərbər"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d062", "soz": "Yapışqan", "qadagan": ["birləşdirmək", "məktəb", "kağız", "maye", "yapışmaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d063", "soz": "Pozan", "qadagan": ["silmək", "qələm", "səhv", "məktəb", "kauçuk"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d064", "soz": "Xətkeş", "qadagan": ["ölçmək", "düz", "məktəb", "santimetr", "çəkmək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d065", "soz": "Çanta", "qadagan": ["daşımaq", "əşya", "məktəb", "çiyin", "fermuar"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d066", "soz": "Kalkulyator", "qadagan": ["hesab", "rəqəm", "riyaziyyat", "düymə", "toplama"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d067", "soz": "Dondurma", "qadagan": ["soyuq", "yay", "şirin", "külah", "ərimək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d068", "soz": "Şokolad", "qadagan": ["şirin", "kakao", "desert", "qəhvəyi", "plitka"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d069", "soz": "Konfet", "qadagan": ["şirin", "kağız", "uşaq", "şəkər", "ağız"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d070", "soz": "Peçenye", "qadagan": ["şirin", "bişirmək", "çay", "xəmir", "quru"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d071", "soz": "Bazar", "qadagan": ["almaq", "satmaq", "meyvə", "mağaza", "insan"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d072", "soz": "Restoran", "qadagan": ["yemək", "sifariş", "masa", "aşpaz", "müştəri"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d073", "soz": "Kafe", "qadagan": ["çay", "qəhvə", "oturmaq", "masa", "içki"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d074", "soz": "Hotel", "qadagan": ["otaq", "səyahət", "yatmaq", "qonaq", "bina"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d075", "soz": "Qəhvə", "qadagan": ["dəmləmək", "fincan", "tünd", "səhər", "kofein"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d076", "soz": "Şirə", "qadagan": ["meyvə", "içmək", "stəkan", "portağal", "içki"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d077", "soz": "Limon", "qadagan": ["sarı", "turş", "çay", "meyvə", "sitrus"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d078", "soz": "Çiyələk", "qadagan": ["qırmızı", "meyvə", "tum", "şirin", "yay"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d079", "soz": "Albalı", "qadagan": ["qırmızı", "meyvə", "ağac", "tum", "yay"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d080", "soz": "Üzüm", "qadagan": ["salxım", "meyvə", "yaşıl", "bənövşəyi", "bağ"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d081", "soz": "Günəş eynəyi", "qadagan": ["yay", "göz", "qaranlıq şüşə", "taxmaq", "günəş"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d082", "soz": "Kəmər", "qadagan": ["şalvar", "bel", "dəri", "bağlamaq", "geyim"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d083", "soz": "Əlcək", "qadagan": ["əl", "qış", "geyinmək", "barmaq", "isti"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d084", "soz": "Şərf", "qadagan": ["boyun", "qış", "isti", "geyinmək", "yun"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d085", "soz": "Futbolka", "qadagan": ["geyim", "qol", "yay", "köynək", "üst"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d086", "soz": "Pijama", "qadagan": ["yatmaq", "gecə", "geyim", "yataq", "rahat"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d087", "soz": "Hamam", "qadagan": ["su", "çimmək", "ev", "sabun", "otaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d088", "soz": "Sabun", "qadagan": ["əl", "yumaq", "köpük", "təmizlik", "hamam"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d089", "soz": "Dəsmal", "qadagan": ["qurulamaq", "hamam", "parça", "su", "yumşaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d090", "soz": "Diş fırçası", "qadagan": ["ağız", "diş", "pasta", "səhər", "təmizlik"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d091", "soz": "Park", "qadagan": ["ağac", "gəzmək", "oturacaq", "şəhər", "yaşıllıq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d092", "soz": "Bulvar", "qadagan": ["dəniz", "gəzmək", "sahil", "şəhər", "park"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d093", "soz": "Muzey", "qadagan": ["tarix", "eksponat", "ziyarət", "sərgi", "bina"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d094", "soz": "Kitabxana", "qadagan": ["kitab", "oxumaq", "sakit", "rəf", "təhsil"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d095", "soz": "Bayraq", "qadagan": ["ölkə", "rəng", "dirək", "dalğalanmaq", "simvol"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d096", "soz": "Medal", "qadagan": ["qızıl", "yarış", "qalib", "idman", "mükafat"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d097", "soz": "Kubok", "qadagan": ["qalib", "yarış", "qaldırmaq", "mükafat", "çempion"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d098", "soz": "Səhnə", "qadagan": ["konsert", "çıxış", "tamaşaçı", "işıq", "mikrofon"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d099", "soz": "Konsert", "qadagan": ["musiqi", "müğənni", "səhnə", "tamaşaçı", "mahnı"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d100", "soz": "Film", "qadagan": ["kino", "aktyor", "ekran", "izləmək", "rejissor"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d101", "soz": "Kino", "qadagan": ["film", "ekran", "zal", "izləmək", "bilet"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d102", "soz": "Bilet", "qadagan": ["almaq", "giriş", "tədbir", "yer", "kağız"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d103", "soz": "Pult", "qadagan": ["televizor", "düymə", "idarə etmək", "kanal", "uzaqdan"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d104", "soz": "Ventilyator", "qadagan": ["hava", "fırlanmaq", "yay", "sərin", "elektrik"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d105", "soz": "Kondisioner", "qadagan": ["sərin", "hava", "otaq", "elektrik", "yay"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d106", "soz": "Mətbəx", "qadagan": ["yemək", "bişirmək", "ev", "aşpaz", "otaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d107", "soz": "Qaşıq", "qadagan": ["yemək", "metal", "şorba", "çəngəl", "qab"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d108", "soz": "Çəngəl", "qadagan": ["yemək", "dişli", "qab", "masa", "metal"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d109", "soz": "Bıçaq", "qadagan": ["kəsmək", "iti", "mətbəx", "metal", "yemək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d110", "soz": "Boşqab", "qadagan": ["yemək", "masa", "qab", "dairəvi", "mətbəx"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d111", "soz": "Fincan", "qadagan": ["çay", "qəhvə", "içmək", "qulp", "qab"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d112", "soz": "Qazan", "qadagan": ["bişirmək", "mətbəx", "yemək", "metal", "ocaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d113", "soz": "Tava", "qadagan": ["qızartmaq", "mətbəx", "ocaq", "yumurta", "sap"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d114", "soz": "Çaynik", "qadagan": ["su", "qaynatmaq", "çay", "mətbəx", "isti"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d115", "soz": "Yumurta", "qadagan": ["toyuq", "ağ", "sarı", "səhər yeməyi", "qabıq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d116", "soz": "Pomidor", "qadagan": ["qırmızı", "tərəvəz", "salat", "toxum", "bağ"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d117", "soz": "Xiyar", "qadagan": ["yaşıl", "salat", "tərəvəz", "uzun", "bağ"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d118", "soz": "Kartof", "qadagan": ["qızartma", "tərəvəz", "torpaq", "bişirmək", "sarı"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d119", "soz": "Soğan", "qadagan": ["göz yaşı", "mətbəx", "tərəvəz", "doğramaq", "qat"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d120", "soz": "Yerkökü", "qadagan": ["narıncı", "dovşan", "tərəvəz", "uzun", "bağ"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d121", "soz": "Aptek", "qadagan": ["dərman", "həkim", "resept", "almaq", "sağlamlıq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d122", "soz": "Bank", "qadagan": ["pul", "kart", "hesab", "kredit", "müştəri"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d123", "soz": "Market", "qadagan": ["alış-veriş", "məhsul", "ərzaq", "mağaza", "səbət"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d124", "soz": "Yanacaqdoldurma", "qadagan": ["benzin", "maşın", "nasos", "yanacaq", "stansiya"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d125", "soz": "Semafor", "qadagan": ["qırmızı", "yaşıl", "sarı", "yol", "işıq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d126", "soz": "Zebra", "qadagan": ["keçid", "piyada", "yol", "ağ", "qara"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d127", "soz": "Tıxac", "qadagan": ["maşın", "yol", "sıxlıq", "hərəkət", "şəhər"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d128", "soz": "Qonaq", "qadagan": ["ev", "gəlmək", "qarşılamaq", "çay", "ziyarət"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d129", "soz": "Qonşu", "qadagan": ["ev", "yan", "bina", "küçə", "yaşamaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "d130", "soz": "Ailə", "qadagan": ["ana", "ata", "uşaq", "ev", "qohum"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "o001", "soz": "Metro", "qadagan": ["yeraltı", "qatar", "stansiya", "sürətli", "şəhər"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o002", "soz": "Universitet", "qadagan": ["təhsil", "tələbə", "diplom", "fakültə", "imtahan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o003", "soz": "İmtahan", "qadagan": ["sual", "cavab", "məktəb", "test", "qiymət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o004", "soz": "Diplom", "qadagan": ["təhsil", "bitirmək", "universitet", "kağız", "ixtisas"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o005", "soz": "Laboratoriya", "qadagan": ["elm", "təcrübə", "alim", "kimya", "test"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o006", "soz": "Kosmos", "qadagan": ["ulduz", "planet", "raket", "səma", "astronavt"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o007", "soz": "Planet", "qadagan": ["Yer", "Mars", "kosmos", "fırlanmaq", "günəş"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o008", "soz": "Günəş sistemi", "qadagan": ["planet", "Günəş", "kosmos", "orbit", "Yer"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o009", "soz": "Raket", "qadagan": ["uçmaq", "kosmos", "yanacaq", "buraxılış", "sürət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o010", "soz": "Süni intellekt", "qadagan": ["robot", "kompüter", "ağıllı", "alqoritm", "texnologiya"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o011", "soz": "Proqramlaşdırma", "qadagan": ["kod", "kompüter", "yazmaq", "developer", "proqram"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o015", "soz": "Brauzer", "qadagan": ["internet", "sayt", "Chrome", "axtarış", "səhifə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o019", "soz": "Virus", "qadagan": ["kompüter", "zərərli", "proqram", "infeksiya", "sistem"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o021", "soz": "Tarix", "qadagan": ["keçmiş", "hadisə", "kitab", "dərs", "illər"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o022", "soz": "İmperiya", "qadagan": ["dövlət", "padşah", "tarix", "böyük", "idarə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o023", "soz": "Sivilizasiya", "qadagan": ["mədəniyyət", "tarix", "insan", "inkişaf", "cəmiyyət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o024", "soz": "İnqilab", "qadagan": ["dəyişiklik", "xalq", "tarix", "siyasi", "qiyam"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o025", "soz": "Müharibə", "qadagan": ["döyüş", "silah", "ordu", "tarix", "ölüm"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o026", "soz": "Sülh", "qadagan": ["müharibə", "əminlik", "razılaşma", "sakitlik", "dostluq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o027", "soz": "Diplomatiya", "qadagan": ["ölkə", "siyasət", "danışıq", "razılaşma", "səfir"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o028", "soz": "Seçki", "qadagan": ["səs", "xalq", "lider", "siyasət", "qutu"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o029", "soz": "Parlament", "qadagan": ["qanun", "deputat", "siyasət", "ölkə", "müzakirə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o030", "soz": "Konstitusiya", "qadagan": ["qanun", "dövlət", "əsas", "hüquq", "sənəd"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o031", "soz": "Ekologiya", "qadagan": ["təbiət", "ətraf mühit", "çirklənmə", "ağac", "hava"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o032", "soz": "İqlim", "qadagan": ["hava", "temperatur", "fəsil", "yer", "dəyişiklik"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o033", "soz": "Qlobal istiləşmə", "qadagan": ["hava", "Yer", "istilik", "ekologiya", "çirklənmə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o034", "soz": "Təkrar emal", "qadagan": ["zibil", "plastik", "yenidən", "ekologiya", "qutu"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o035", "soz": "Çirklənmə", "qadagan": ["hava", "zibil", "ekologiya", "təmiz", "fabrik"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o036", "soz": "Enerji", "qadagan": ["elektrik", "güc", "istilik", "resurs", "istehlak"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o037", "soz": "Elektrik stansiyası", "qadagan": ["enerji", "istehsal", "işıq", "generator", "fabrik"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o038", "soz": "Neft", "qadagan": ["yanacaq", "qara", "enerji", "Bakı", "qazma"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o039", "soz": "Qaz", "qadagan": ["yanacaq", "mətbəx", "enerji", "mavi", "boru"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o040", "soz": "Benzin", "qadagan": ["maşın", "yanacaq", "stansiya", "qoxu", "yanmaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o041", "soz": "Bank kartı", "qadagan": ["pul", "ödəmə", "ATM", "hesab", "plastik"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o042", "soz": "Kredit", "qadagan": ["pul", "borc", "bank", "faiz", "ödəmə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o043", "soz": "Valyuta", "qadagan": ["pul", "dollar", "manat", "dəyər", "mübadilə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o044", "soz": "İnflyasiya", "qadagan": ["qiymət", "pul", "artım", "iqtisadiyyat", "bazar"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o045", "soz": "İqtisadiyyat", "qadagan": ["pul", "bazar", "istehsal", "dövlət", "ticarət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o046", "soz": "Marketinq", "qadagan": ["reklam", "satış", "bazar", "müştəri", "strategiya"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o047", "soz": "Brend", "qadagan": ["logo", "şirkət", "ad", "məhsul", "tanınmış"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o048", "soz": "Reklam", "qadagan": ["video", "satış", "müştəri", "marketinq", "TV"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o049", "soz": "Müştəri", "qadagan": ["almaq", "satıcı", "mağaza", "pul", "xidmət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o050", "soz": "Xidmət", "qadagan": ["iş", "müştəri", "təmir", "kömək", "təklif"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o051", "soz": "Şəhər", "qadagan": ["bina", "insan", "küçə", "paytaxt", "yaşamaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o052", "soz": "Kənd", "qadagan": ["ferma", "heyvan", "torpaq", "sakit", "yaşamaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o053", "soz": "Küçə", "qadagan": ["yol", "maşın", "şəhər", "ev", "piyada"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o054", "soz": "Meydan", "qadagan": ["şəhər", "insan", "açıq", "toplanmaq", "bina"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o055", "soz": "Ticarət mərkəzi", "qadagan": ["alış-veriş", "mağaza", "insan", "böyük", "lift"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o056", "soz": "Mağaza", "qadagan": ["satmaq", "almaq", "məhsul", "pul", "satıcı"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o057", "soz": "Ofis", "qadagan": ["iş", "kompüter", "masa", "işçi", "şirkət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o058", "soz": "Şirkət", "qadagan": ["iş", "pul", "idarə", "ofis", "komanda"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o059", "soz": "İşçi", "qadagan": ["iş", "şirkət", "maaş", "ofis", "əmək"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o060", "soz": "Maaş", "qadagan": ["pul", "iş", "aylıq", "ödəmə", "bank"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o061", "soz": "Hava limanı", "qadagan": ["təyyarə", "uçmaq", "səyahət", "pasport", "baqaj"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o062", "soz": "Pasport", "qadagan": ["ölkə", "səyahət", "şəxsiyyət", "viza", "sənəd"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o063", "soz": "Viza", "qadagan": ["ölkə", "giriş", "səyahət", "icazə", "pasport"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o064", "soz": "Sərhəd", "qadagan": ["ölkə", "keçmək", "xətt", "gömrük", "səyahət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o065", "soz": "Gömrük", "qadagan": ["sərhəd", "yoxlama", "mallar", "ölkə", "rüsum"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o066", "soz": "Poliklinika", "qadagan": ["həkim", "xəstə", "müalicə", "sağlamlıq", "qəbul"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o067", "soz": "Xəstəxana", "qadagan": ["həkim", "xəstə", "müalicə", "təcili", "otaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o068", "soz": "Təcili yardım", "qadagan": ["maşın", "həkim", "xəstə", "sürətli", "tibbi"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o069", "soz": "Cərrah", "qadagan": ["həkim", "əməliyyat", "bıçaq", "xəstə", "xəstəxana"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o070", "soz": "Əməliyyat", "qadagan": ["xəstə", "həkim", "cərrah", "xəstəxana", "bıçaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o071", "soz": "Qan", "qadagan": ["bədən", "damar", "qırmızı", "həkim", "xəsarət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o072", "soz": "Sümük", "qadagan": ["bədən", "skelet", "bərk", "qırılmaq", "insan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o073", "soz": "Dəri", "qadagan": ["bədən", "yumşaq", "insan", "örtük", "toxunmaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o074", "soz": "Əzələ", "qadagan": ["bədən", "güc", "idman", "dartmaq", "insan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o075", "soz": "Ürək", "qadagan": ["bədən", "qan", "döyünmək", "insan", "orqan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o076", "soz": "Beyin", "qadagan": ["düşünmək", "insan", "baş", "ağıl", "orqan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o077", "soz": "Sinir", "qadagan": ["bədən", "hiss", "ağrı", "reaksiya", "sistem"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o078", "soz": "Ağciyər", "qadagan": ["nəfəs", "hava", "bədən", "insan", "orqan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o079", "soz": "Mədə", "qadagan": ["yemək", "həzm", "bədən", "acmaq", "orqan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o080", "soz": "Bağırsaq", "qadagan": ["həzm", "bədən", "yemək", "orqan", "insan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o081", "soz": "Yol", "qadagan": ["maşın", "küçə", "səyahət", "getmək", "nəqliyyat"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o082", "soz": "Avtomobil yolu", "qadagan": ["maşın", "sürət", "yol", "nəqliyyat", "asfalt"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o083", "soz": "Svetofor", "qadagan": ["qırmızı", "yaşıl", "yol", "işıq", "maşın"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o084", "soz": "Parkinq", "qadagan": ["maşın", "dayanmaq", "yer", "nəqliyyat", "bina"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o085", "soz": "Qəza", "qadagan": ["maşın", "toqquşma", "yol", "xəsarət", "hadisə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o086", "soz": "Qış", "qadagan": ["soyuq", "qar", "fəsil", "hava", "dekabr"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o087", "soz": "Yay", "qadagan": ["isti", "günəş", "fəsil", "istirahət", "iyul"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o088", "soz": "Payız", "qadagan": ["yarpaq", "fəsil", "sarı", "hava", "oktyabr"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o089", "soz": "Yaz", "qadagan": ["çiçək", "fəsil", "hava", "yaşıl", "mart"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o090", "soz": "Fəsil", "qadagan": ["hava", "il", "qış", "yay", "dəyişmək"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o092", "soz": "Kalendar", "qadagan": ["il", "ay", "gün", "tarix", "vaxt"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o093", "soz": "Həftə", "qadagan": ["gün", "bazar", "iş", "vaxt", "7"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o094", "soz": "Ay", "qadagan": ["il", "30 gün", "vaxt", "kalendar", "fəsil"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o095", "soz": "İl", "qadagan": ["12 ay", "vaxt", "365 gün", "kalendar", "dövr"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o096", "soz": "Bayram", "qadagan": ["şənlik", "tətil", "insan", "hədiyyə", "gün"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o097", "soz": "Novruz", "qadagan": ["bayram", "Azərbaycan", "bahar", "şirniyyat", "tonqal"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o098", "soz": "Milad", "qadagan": ["bayram", "Yeni il", "qış", "Şaxta baba", "hədiyyə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o099", "soz": "Yeni il", "qadagan": ["31 dekabr", "bayram", "şam", "şam ağacı", "hədiyyə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o100", "soz": "Adət", "qadagan": ["ənənə", "xalq", "mədəniyyət", "bayram", "davranış"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o101", "soz": "Televiziya", "qadagan": ["kanal", "izləmək", "ekran", "veriliş", "pult"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o102", "soz": "Radio", "qadagan": ["səs", "musiqi", "dinləmək", "dalğa", "stansiya"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o103", "soz": "Xəbər", "qadagan": ["informasiya", "televiziya", "hadisə", "jurnalist", "gündəlik"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o104", "soz": "Jurnalist", "qadagan": ["xəbər", "reportaj", "media", "yazmaq", "məlumat"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o105", "soz": "Qəzet", "qadagan": ["kağız", "xəbər", "oxumaq", "mətbuat", "jurnal"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o106", "soz": "Telefon zəngi", "qadagan": ["səs", "mobil", "danışmaq", "zəng", "əlaqə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o107", "soz": "Mesaj", "qadagan": ["yazmaq", "telefon", "SMS", "çatdırmaq", "söz"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o108", "soz": "Sosial şəbəkə", "qadagan": ["internet", "Facebook", "Instagram", "paylaşmaq", "profil"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o109", "soz": "Profil", "qadagan": ["şəxs", "şəkil", "hesab", "internet", "ad"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o110", "soz": "Paylaşım", "qadagan": ["post", "internet", "şəkil", "sosial", "yazı"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o111", "soz": "Şərh", "qadagan": ["yazmaq", "post", "fikr", "internet", "cavab"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o112", "soz": "Bəyənmək", "qadagan": ["like", "ürək", "sosial", "post", "klik"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o113", "soz": "Axtarış", "qadagan": ["internet", "Google", "tapmaq", "yazmaq", "nəticə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o115", "soz": "Parol", "qadagan": ["şifrə", "giriş", "təhlükəsizlik", "hesab", "sistem"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o116", "soz": "İstifadəçi", "qadagan": ["hesab", "şəxs", "sistem", "login", "profil"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o117", "soz": "Giriş", "qadagan": ["login", "şifrə", "hesab", "sistem", "açmaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o118", "soz": "Çıxış", "qadagan": ["logout", "sistem", "bağlamaq", "hesab", "internet"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o119", "soz": "Bildiriş", "qadagan": ["notification", "telefon", "mesaj", "xəbər", "səs"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o120", "soz": "Tətbiq", "qadagan": ["app", "telefon", "proqram", "yükləmək", "istifadə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o121", "soz": "Yükləmə", "qadagan": ["download", "internet", "fayl", "proqram", "sürət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o122", "soz": "Fayl", "qadagan": ["sənəd", "kompüter", "məlumat", "qovluq", "saxlama"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o123", "soz": "Qovluq", "qadagan": ["fayl", "kompüter", "saxlama", "sistem", "məlumat"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o124", "soz": "Ekran", "qadagan": ["monitor", "telefon", "görmək", "şəkil", "kompüter"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o126", "soz": "Siçan (mouse)", "qadagan": ["klik", "kompüter", "kursor", "hərəkət", "düymə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o127", "soz": "Monitor", "qadagan": ["ekran", "kompüter", "görmək", "şəkil", "çıxış"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o129", "soz": "Planşet", "qadagan": ["tablet", "ekran", "toxunmaq", "telefon", "böyük"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o130", "soz": "Smartfon", "qadagan": ["telefon", "internet", "ekran", "tətbiq", "mobil"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o131", "soz": "Şəhər avtobusu", "qadagan": ["nəqliyyat", "sərnişin", "dayanacaq", "yol", "sürücü"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o132", "soz": "Taksi", "qadagan": ["maşın", "pul", "sürücü", "sifariş", "yol"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o133", "soz": "Dəmiryolu", "qadagan": ["qatar", "rels", "stansiya", "nəqliyyat", "səyahət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o134", "soz": "Stansiya", "qadagan": ["qatar", "dayanacaq", "metro", "sərnişin", "yol"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o135", "soz": "Bilet satışı", "qadagan": ["almaq", "satmaq", "tədbir", "kino", "qəbul"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o136", "soz": "Səyahət", "qadagan": ["getmək", "ölkə", "təyyarə", "istirahət", "səfər"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o137", "soz": "Turizm", "qadagan": ["səyahət", "ölkə", "otel", "istirahət", "bələdçi"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o138", "soz": "Bələdçi", "qadagan": ["tur", "şəhər", "izah", "turist", "səyahət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o139", "soz": "Turist", "qadagan": ["səyahət", "ölkə", "kamera", "ziyarət", "otel"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o140", "soz": "Xəritə", "qadagan": ["coğrafiya", "yer", "istiqamət", "kompas", "ölkə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o141", "soz": "Şəkil", "qadagan": ["foto", "kamera", "çəkmək", "görmək", "xatirə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o142", "soz": "Video", "qadagan": ["çəkiliş", "kamera", "film", "izləmək", "səs"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o143", "soz": "Səs", "qadagan": ["eşitmək", "qulaq", "musiqi", "dalğa", "danışıq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o144", "soz": "Musiqi", "qadagan": ["səs", "melodiya", "dinləmək", "ritm", "mahnı"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o145", "soz": "Mahnı", "qadagan": ["oxumaq", "musiqi", "söz", "səs", "ifa"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o146", "soz": "Səhnə işi", "qadagan": ["teatr", "aktyor", "çıxış", "tamaşa", "işıq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o147", "soz": "Teatr", "qadagan": ["səhnə", "aktyor", "oyun", "tamaşa", "zal"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o148", "soz": "Aktyor", "qadagan": ["film", "rol", "səhnə", "oynamaq", "kino"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o149", "soz": "Rejissor", "qadagan": ["film", "çəkmək", "kamera", "aktyor", "plan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o150", "soz": "Ssenari", "qadagan": ["film", "yazı", "hekayə", "səhnə", "dialog"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o153", "soz": "Hörmət", "qadagan": ["insan", "ədəblə", "davranış", "yaxşı", "qarşılıqlı"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o154", "soz": "Güvən", "qadagan": ["etibar", "insan", "doğru", "dost", "əlaqə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o155", "soz": "Yalan", "qadagan": ["doğru", "söz", "aldatmaq", "insan", "etibar"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o156", "soz": "Dürüstlük", "qadagan": ["doğru", "insan", "yalan", "etibar", "açıq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o157", "soz": "Ədalət", "qadagan": ["qanun", "doğru", "bərabər", "hüquq", "insan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o158", "soz": "Qanun", "qadagan": ["dövlət", "qayda", "cərimə", "hüquq", "icra"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o159", "soz": "Cəza", "qadagan": ["qanun", "səhv", "cərimə", "cinayət", "məhdudiyyət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o160", "soz": "Cinayət", "qadagan": ["qanun", "polis", "səhv", "cəza", "qadağa"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o161", "soz": "Psixologiya", "qadagan": ["ağıl", "düşüncə", "insan", "davranış", "zehin"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o162", "soz": "Stress", "qadagan": ["gərginlik", "yorğunluq", "psixologiya", "iş", "təzyiq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o164", "soz": "Kədər", "qadagan": ["ağlamaq", "emosiya", "hiss", "itki", "qəm"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o165", "soz": "Qəzəb", "qadagan": ["hirslənmək", "emosiya", "insan", "reaksiya", "söz"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o166", "soz": "Motivasiya", "qadagan": ["həvəs", "iş", "hədəf", "uğur", "enerji"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o168", "soz": "Uğur", "qadagan": ["nailiyyət", "iş", "hədəf", "qələbə", "nəticə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o169", "soz": "Məğlubiyyət", "qadagan": ["itirmək", "oyun", "uğur", "nəticə", "rəqib"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o170", "soz": "Rəqabət", "qadagan": ["yarış", "rəqib", "qalib", "iş", "mübarizə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o171", "soz": "Komanda işi", "qadagan": ["birlik", "iş", "insan", "hədəf", "əməkdaşlıq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o172", "soz": "Lider", "qadagan": ["başçı", "komanda", "idarə", "insan", "rəhbər"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o173", "soz": "Rəhbər", "qadagan": ["lider", "iş", "şirkət", "idarə", "komanda"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o174", "soz": "İdarəetmə", "qadagan": ["rəhbər", "sistem", "iş", "nəzarət", "plan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o177", "soz": "Layihə", "qadagan": ["iş", "plan", "komanda", "nəticə", "tapşırıq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o178", "soz": "Tapşırıq", "qadagan": ["iş", "öhdəlik", "öyrənmək", "müəllim", "nəticə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o181", "soz": "Gündəlik", "qadagan": ["plan", "yazmaq", "iş", "vaxt", "həyat"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o182", "soz": "Vərdiş", "qadagan": ["hərəkət", "gündəlik", "təkrar", "insan", "davranış"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o184", "soz": "İnkişaf", "qadagan": ["böyümək", "öyrənmək", "irəliləyiş", "iş", "insan"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o190", "soz": "Elm", "qadagan": ["bilik", "laboratoriya", "araşdırma", "alim", "təcrübə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o191", "soz": "Alim", "qadagan": ["elm", "araşdırma", "laboratoriya", "bilik", "kəşf"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o192", "soz": "Kəşf", "qadagan": ["yeni", "tapmaq", "elm", "bilik", "nəticə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o193", "soz": "İxtira", "qadagan": ["yeni", "cihaz", "texnologiya", "yaratmaq", "elm"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o194", "soz": "İnnovasiya", "qadagan": ["yeni", "ideya", "texnologiya", "inkişaf", "iş"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o195", "soz": "İdeya", "qadagan": ["fikir", "yaradıcılıq", "düşünmək", "plan", "ağıl"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o197", "soz": "Dizayn", "qadagan": ["rəsm", "plan", "görünüş", "şəkil", "yaratmaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o200", "soz": "İctimaiyyət", "qadagan": ["insan", "cəmiyyət", "qrup", "xalq", "sosial"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o201", "soz": "Cəmiyyət", "qadagan": ["insan", "qrup", "ictimai", "qayda", "həyat"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o202", "soz": "Mədəniyyət", "qadagan": ["xalq", "adət", "incəsənət", "tarix", "dil"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o203", "soz": "Dil", "qadagan": ["danışmaq", "söz", "insan", "ünsiyyət", "əlifba"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o206", "soz": "Söhbət", "qadagan": ["danışmaq", "insan", "mövzu", "ünsiyyət", "dost"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o215", "soz": "Statistika", "qadagan": ["rəqəm", "məlumat", "analiz", "qrafik", "orta"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o216", "soz": "Qrafik", "qadagan": ["rəqəm", "statistika", "şəkil", "data", "diagram"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o217", "soz": "Cədvəl", "qadagan": ["sətir", "sütun", "data", "Excel", "məlumat"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o220", "soz": "Hesabat", "qadagan": ["sənəd", "data", "iş", "nəticə", "yazı"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o221", "soz": "Sənəd", "qadagan": ["kağız", "yazı", "məlumat", "ofis", "fayl"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o222", "soz": "Arxiv", "qadagan": ["saxlama", "sənəd", "keçmiş", "fayl", "məlumat"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o225", "soz": "Səhifə", "qadagan": ["kitab", "yazı", "sətir", "oxumaq", "kağız"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o226", "soz": "Müəllif", "qadagan": ["kitab", "yazı", "şəxs", "yaratmaq", "əsər"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o228", "soz": "Roman", "qadagan": ["kitab", "hekayə", "yazı", "uzun", "əsər"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o229", "soz": "Hekayə", "qadagan": ["qısa", "yazı", "kitab", "roman", "hadisə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o240", "soz": "Plan", "qadagan": ["strategiya", "hədəf", "iş", "nəticə", "təşkil"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "o249", "soz": "İnterfeys", "qadagan": ["UI", "ekran", "istifadəçi", "dizayn", "proqram"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "n0001", "soz": "Keçi", "qadagan": ["süd", "buynuz", "saqqal", "dağ", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "n0002", "soz": "Donuz", "qadagan": ["çirkli", "çəhrayı", "palçıq", "ferma", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "n0003", "soz": "Meymun", "qadagan": ["banan", "ağac", "quyruq", "cəngəllik", "təqlid"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "n0004", "soz": "İlan", "qadagan": ["sürünür", "zəhər", "ayaqsız", "dil", "fısıltı"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "n0005", "soz": "Qurbağa", "qadagan": ["göl", "tullanır", "yaşıl", "vaqqıltı", "su"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "n0006", "soz": "Arı", "qadagan": ["bal", "çiçək", "sancır", "pətək", "vızıltı"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "n0007", "soz": "Tısbağa", "qadagan": ["yavaş", "qabıq", "çanaq", "sürünür", "uzunömürlü"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0008", "soz": "Siçan", "qadagan": ["kiçik", "pendir", "quyruq", "deşik", "gəmirir"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "n0009", "soz": "Pələng", "qadagan": ["zolaqlı", "yırtıcı", "cəngəllik", "narıncı", "pişikkimi"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0010", "soz": "Bayquş", "qadagan": ["gecə", "uçur", "gözlər", "müdrik", "ağac"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0011", "soz": "Sincab", "qadagan": ["fındıq", "quyruq", "ağac", "tüklü", "tullanır"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0012", "soz": "Delfin", "qadagan": ["dəniz", "ağıllı", "üzür", "tullanır", "məməli"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0013", "soz": "Balina", "qadagan": ["nəhəng", "okean", "fışqırıq", "məməli", "dəniz"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0014", "soz": "Kirpi", "qadagan": ["tikan", "yumru", "kiçik", "qoruyur", "gecə"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0015", "soz": "Tovuz quşu", "qadagan": ["lələk", "gözəl", "yelpik", "rəngli", "quyruq"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0016", "soz": "Timsah", "qadagan": ["çay", "dişlər", "sürünən", "yırtıcı", "Afrika"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "n0017", "soz": "Kərgədan", "qadagan": ["buynuz", "ağır", "Afrika", "qalın dəri", "yırtıcı"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0018", "soz": "Begemot", "qadagan": ["su", "ağır", "Afrika", "böyük ağız", "çay"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0019", "soz": "Buqələmun", "qadagan": ["rəng dəyişir", "dil", "kərtənkələ", "kamuflyaj", "göz"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0020", "soz": "Vaşaq", "qadagan": ["pişikkimi", "yırtıcı", "qulaq", "meşə", "tüklü"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0021", "soz": "Çita", "qadagan": ["sürətli", "ləkəli", "Afrika", "yırtıcı", "qaçır"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0022", "soz": "Köstəbək", "qadagan": ["torpaq", "yeraltı", "kor", "qazır", "tunel"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0023", "soz": "İlbiz", "qadagan": ["yavaş", "qabıq", "selik", "kiçik", "sürünür"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0024", "soz": "Ahtapot", "qadagan": ["dəniz", "səkkiz", "qol", "sorğuc", "yumşaq"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0025", "soz": "Yarasa", "qadagan": ["gecə", "uçur", "mağara", "qan", "qanad"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0026", "soz": "Panda", "qadagan": ["bambuk", "ağ-qara", "Çin", "ayıkimi", "sevimli"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0027", "soz": "Antilop", "qadagan": ["sürətli", "savanna", "buynuz", "ot", "qaçır"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0028", "soz": "Kenquru", "qadagan": ["Avstraliya", "tullanır", "cib", "quyruq", "balasını daşıyır"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "n0029", "soz": "Süd", "qadagan": ["inək", "ağ", "içmək", "stəkan", "kalsium"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0030", "soz": "Şəkər", "qadagan": ["şirin", "ağ", "çay", "kub", "dad"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0031", "soz": "Duz", "qadagan": ["şor", "ağ", "yemək", "dəniz", "ədviyyat"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0032", "soz": "Şorba", "qadagan": ["isti", "kasa", "qaşıq", "duru", "bişirmək"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0033", "soz": "Salat", "qadagan": ["tərəvəz", "yaşıl", "kəsmək", "sağlam", "qarışıq"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0034", "soz": "Qaymaq", "qadagan": ["süd", "ağ", "yağlı", "səhər", "şirin"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0035", "soz": "Düyü", "qadagan": ["plov", "ağ", "dən", "bişirmək", "Asiya"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0036", "soz": "Kələm", "qadagan": ["yaşıl", "tərəvəz", "yarpaq", "dolma", "salat"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "n0037", "soz": "Düşbərə", "qadagan": ["xəmir", "ət", "kiçik", "şorba", "qaynatmaq"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0038", "soz": "Qutab", "qadagan": ["xəmir", "yastı", "içlik", "tava", "göyərti"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0039", "soz": "Lavaş", "qadagan": ["nazik", "çörək", "təndir", "yastı", "sarmaq"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0040", "soz": "Halva", "qadagan": ["şirin", "un", "yağ", "dəstərxan", "yas"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0041", "soz": "Mürəbbə", "qadagan": ["şirin", "meyvə", "şəkər", "qaynatmaq", "qışlıq"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0042", "soz": "Turşu", "qadagan": ["şor", "tərəvəz", "sirkə", "qışlıq", "banka"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0043", "soz": "Kotlet", "qadagan": ["ət", "qızartmaq", "yastı", "farş", "tava"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0044", "soz": "Şəkərbura", "qadagan": ["bayram", "qoz", "xəmir", "Novruz", "şirniyyat"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "n0045", "soz": "Piti", "qadagan": ["qoyun əti", "saxsı", "qazança", "noxud", "Şəki"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0046", "soz": "Bozbaş", "qadagan": ["qoyun əti", "noxud", "şorba", "kətə", "duru"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0047", "soz": "Xaş", "qadagan": ["mədə", "səhər", "sarımsaq", "isti", "qış"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0048", "soz": "Lülə kabab", "qadagan": ["farş", "şiş", "mangal", "ət", "közərmə"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0049", "soz": "Paxlava", "qadagan": ["bayram", "qoz", "şərbət", "romb", "şirniyyat"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0050", "soz": "Kürü", "qadagan": ["balıq", "qırmızı", "duzlu", "bahalı", "dənəvər"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0051", "soz": "Suşi", "qadagan": ["yapon", "düyü", "balıq", "yosun", "çubuq"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0052", "soz": "Lazanya", "qadagan": ["italyan", "qat", "makaron", "pendir", "bişirmək"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0053", "soz": "Kruassan", "qadagan": ["fransız", "xəmir", "aypara", "səhər", "təbəqəli"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0054", "soz": "Tiramisu", "qadagan": ["italyan", "desert", "qəhvə", "kakao", "krem"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0055", "soz": "Qovurma", "qadagan": ["ət", "yağ", "qışlıq", "saxlama", "qazan"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "n0056", "soz": "Yoga", "qadagan": ["mat", "əsnəmə", "sakitlik", "nəfəs", "poza"], "kateqoriya": "İdman", "cetinlik": "asan"},
+    {"id": "n0057", "soz": "Atletika", "qadagan": ["qaçış", "stadion", "tullanma", "medal", "yarış"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0058", "soz": "Qolf", "qadagan": ["topcuq", "çuxur", "çubuq", "yaşıllıq", "zərbə"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0059", "soz": "Reqbi", "qadagan": ["oval top", "komanda", "sahə", "sərt", "ingilis"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0060", "soz": "Beysbol", "qadagan": ["bita", "top", "Amerika", "əlcək", "zərbə"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0061", "soz": "Badminton", "qadagan": ["raket", "tüklü top", "tor", "yüngül", "vurmaq"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0062", "soz": "Snoubord", "qadagan": ["qar", "dağ", "lövhə", "sürüşmək", "qış"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0063", "soz": "Xizək", "qadagan": ["qar", "dağ", "sürüşmək", "çubuq", "qış"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0064", "soz": "Buz xokkeyi", "qadagan": ["şayba", "buz", "ağac", "komanda", "sürüşmək"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "n0065", "soz": "Triatlon", "qadagan": ["üzmək", "velosiped", "qaçmaq", "üç", "dözümlülük"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0066", "soz": "Eskrim", "qadagan": ["qılınc", "maska", "döyüş", "zərbə", "ağ geyim"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0067", "soz": "Gimnastika", "qadagan": ["çevik", "hərəkət", "akrobat", "lent", "bədən"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0068", "soz": "Su polosu", "qadagan": ["hovuz", "top", "komanda", "üzmək", "qol"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0069", "soz": "Kerlinq", "qadagan": ["buz", "daş", "süpürgə", "sürüşdürmək", "hədəf"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0070", "soz": "Biatlon", "qadagan": ["xizək", "atəş", "tüfəng", "qar", "qış"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0071", "soz": "Cüdo", "qadagan": ["döyüş", "kimono", "yıxmaq", "yapon", "kəmər"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0072", "soz": "Dağ xizəyi", "qadagan": ["qar", "yamac", "sürət", "çubuq", "enmək"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "n0073", "soz": "Modem", "qadagan": ["internet", "siqnal", "qutu", "wifi", "bağlantı"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "n0074", "soz": "Şarj cihazı", "qadagan": ["batareya", "kabel", "enerji", "telefon", "rozetka"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "n0075", "soz": "Kolonka", "qadagan": ["səs", "musiqi", "ucadan", "dinləmək", "cihaz"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "n0076", "soz": "Holoqram", "qadagan": ["üçölçülü", "işıq", "proyeksiya", "fantastika", "görüntü"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0077", "soz": "3D printer", "qadagan": ["çap", "plastik", "model", "qat-qat", "cihaz"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0078", "soz": "Sensor", "qadagan": ["hiss edir", "siqnal", "avtomatik", "cihaz", "ölçmə"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0079", "soz": "Virtual reallıq", "qadagan": ["eynək", "oyun", "üçölçülü", "təcrübə", "simulyasiya"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0080", "soz": "Naviqasiya", "qadagan": ["yol", "xəritə", "peyk", "istiqamət", "tapmaq"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0081", "soz": "Peyk", "qadagan": ["kosmos", "orbit", "siqnal", "ötürmə", "Yer"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0082", "soz": "Kriptovalyuta", "qadagan": ["rəqəmsal", "pul", "internet", "investisiya", "bitkoin"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0083", "soz": "Blokçeyn", "qadagan": ["zəncir", "rəqəmsal", "məlumat", "təhlükəsiz", "texnologiya"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "n0084", "soz": "Ulduz", "qadagan": ["gecə", "səma", "işıq", "kosmos", "parıldayır"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "n0085", "soz": "Ağac", "qadagan": ["yarpaq", "budaq", "meşə", "kök", "yaşıl"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "n0086", "soz": "Çiçək", "qadagan": ["ləçək", "ətir", "bağ", "rəngli", "açır"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "n0087", "soz": "Daş", "qadagan": ["sərt", "ağır", "yer", "atmaq", "qaya"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "n0088", "soz": "Torpaq", "qadagan": ["yer", "əkin", "qəhvəyi", "bitki", "qazmaq"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "n0089", "soz": "Şimşək", "qadagan": ["işıq", "göy", "fırtına", "çaxır", "parlaq"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "n0090", "soz": "Duman", "qadagan": ["sis", "görünməz", "səhər", "bürüyür", "ağımtıl"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "n0091", "soz": "Göl", "qadagan": ["su", "durğun", "balıq", "sahil", "göy"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "n0092", "soz": "Mağara", "qadagan": ["dağ", "qaranlıq", "yeraltı", "daş", "dərin"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "n0093", "soz": "Bulaq", "qadagan": ["su", "içmək", "təmiz", "fışqırır", "dağ"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "n0094", "soz": "Dolu", "qadagan": ["buz", "yağış", "düşür", "göy", "zərbə"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "n0095", "soz": "Aysberq", "qadagan": ["buz", "okean", "nəhəng", "üzür", "soyuq"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0096", "soz": "Buzlaq", "qadagan": ["buz", "dağ", "nəhəng", "əriyir", "soyuq"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0097", "soz": "Geyzer", "qadagan": ["fışqırır", "isti su", "vulkan", "buxar", "yeraltı"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0098", "soz": "Tornado", "qadagan": ["külək", "fırlanır", "huni", "dağıdıcı", "fırtına"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0099", "soz": "Mərcan rifi", "qadagan": ["dəniz", "rəngli", "balıq", "sualtı", "koloniya"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0100", "soz": "Sunami", "qadagan": ["dalğa", "dəniz", "zəlzələ", "nəhəng", "dağıdıcı"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0101", "soz": "Zəlzələ", "qadagan": ["yer", "silkələnmə", "dağıntı", "titrəyiş", "təbii fəlakət"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0102", "soz": "Şimal işıqları", "qadagan": ["səma", "rəngli", "qütb", "gecə", "parıltı"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "n0103", "soz": "Fermer", "qadagan": ["torpaq", "əkin", "heyvan", "kənd", "məhsul"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "n0104", "soz": "Balıqçı", "qadagan": ["tor", "qayıq", "dəniz", "tutmaq", "peşə"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "n0105", "soz": "Dərzi", "qadagan": ["paltar", "tikiş", "iynə", "parça", "ölçü"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "n0106", "soz": "Fotoqraf", "qadagan": ["kamera", "şəkil", "çəkmək", "poza", "obyektiv"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "n0107", "soz": "Çoban", "qadagan": ["qoyun", "sürü", "otlaq", "dağ", "heyvan"], "kateqoriya": "Peşələr", "cetinlik": "asan"},
+    {"id": "n0108", "soz": "Ovçu", "qadagan": ["tüfəng", "meşə", "tələ", "heyvan", "izləmək"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0109", "soz": "Veterinar", "qadagan": ["heyvan", "müalicə", "klinika", "sağlamlıq", "peyvənd"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0110", "soz": "Rəssam", "qadagan": ["fırça", "rəng", "kətan", "şəkil", "çəkmək"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0111", "soz": "Müğənni", "qadagan": ["səs", "mahnı", "səhnə", "mikrofon", "oxumaq"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0112", "soz": "Vəkil", "qadagan": ["məhkəmə", "qanun", "müdafiə", "hüquq", "müştəri"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0113", "soz": "Mühasib", "qadagan": ["pul", "hesab", "rəqəm", "cədvəl", "maliyyə"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0114", "soz": "Hakim", "qadagan": ["məhkəmə", "qərar", "ədalət", "cəza", "qanun"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0115", "soz": "Memar", "qadagan": ["bina", "layihə", "plan", "tikinti", "dizayn"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "n0116", "soz": "Arxeoloq", "qadagan": ["qazıntı", "qədim", "tarix", "artefakt", "torpaq"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0117", "soz": "Astronom", "qadagan": ["ulduz", "teleskop", "kosmos", "planet", "gecə"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0118", "soz": "Diplomat", "qadagan": ["dövlət", "danışıqlar", "səfir", "ölkə", "müqavilə"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0119", "soz": "Notarius", "qadagan": ["sənəd", "möhür", "təsdiq", "hüquq", "imza"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0120", "soz": "Akrobat", "qadagan": ["sirk", "çevik", "tullanmaq", "tarazlıq", "gimnastika"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0121", "soz": "Jonqlyor", "qadagan": ["sirk", "top", "hava", "tutmaq", "atmaq"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0122", "soz": "Geoloq", "qadagan": ["daş", "torpaq", "mineral", "yer", "tədqiqat"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0123", "soz": "Psixoloq", "qadagan": ["beyin", "hiss", "danışmaq", "müalicə", "insan"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0124", "soz": "Sommelye", "qadagan": ["şərab", "dad", "restoran", "seçim", "bahalı"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0125", "soz": "Stomatoloq", "qadagan": ["diş", "ağrı", "klinika", "müalicə", "ağız"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "n0126", "soz": "Çarpayı", "qadagan": ["yatmaq", "otaq", "yorğan", "yumşaq", "gecə"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "n0127", "soz": "Pərdə", "qadagan": ["pəncərə", "asmaq", "parça", "işıq", "otaq"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "n0128", "soz": "Daraq", "qadagan": ["saç", "düzəltmək", "diş", "əl", "dişlər"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "n0129", "soz": "Şam", "qadagan": ["işıq", "əritmək", "alov", "tort", "qaranlıq"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "n0130", "soz": "Vedrə", "qadagan": ["su", "daşımaq", "plastik", "təmizlik", "dolu"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "n0131", "soz": "Qab", "qadagan": ["yemək", "yumaq", "mətbəx", "boşqab", "saxlamaq"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "n0132", "soz": "Ütü", "qadagan": ["paltar", "isti", "düzəltmək", "qırış", "buxar"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "n0133", "soz": "Toster", "qadagan": ["çörək", "qızartmaq", "səhər", "isti", "cihaz"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "n0134", "soz": "Blender", "qadagan": ["qarışdırmaq", "meyvə", "şirə", "mətbəx", "bıçaq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "n0135", "soz": "Tərəzi", "qadagan": ["çəki", "ölçmək", "kiloqram", "müqayisə", "ağırlıq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "n0136", "soz": "Çəkic", "qadagan": ["mismar", "vurmaq", "alət", "dəmir", "sapı"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "n0137", "soz": "Qıfıl", "qadagan": ["açar", "qapı", "bağlamaq", "təhlükəsizlik", "metal"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "n0138", "soz": "Tozsoran", "qadagan": ["toz", "təmizlik", "xalça", "sormaq", "cihaz"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "n0139", "soz": "Samovar", "qadagan": ["çay", "isti su", "mis", "qaynatmaq", "ənənə"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "n0140", "soz": "Mangal", "qadagan": ["kabab", "kömür", "tüstü", "manqal", "közərmə"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "n0141", "soz": "Tikiş maşını", "qadagan": ["iynə", "sap", "parça", "dərzi", "tikmək"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "n0142", "soz": "Lyustra", "qadagan": ["tavan", "işıq", "asmaq", "bəzək", "lampa"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "n0143", "soz": "Rəndə", "qadagan": ["taxta", "yonmaq", "alət", "dülgər", "hamar"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "n0144", "soz": "Barometr", "qadagan": ["təzyiq", "hava", "ölçmək", "cihaz", "proqnoz"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "n0145", "soz": "Nifrət", "qadagan": ["pis hiss", "sevgi əksi", "düşmən", "içdən", "qəzəb"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "n0146", "soz": "Həsəd", "qadagan": ["başqası", "istəmək", "paxıllıq", "hiss", "qısqanmaq"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "n0147", "soz": "Utanc", "qadagan": ["qızarmaq", "yanaq", "səhv", "gizlənmək", "hiss"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "n0148", "soz": "Maraq", "qadagan": ["öyrənmək", "sual", "istək", "yenilik", "cəlb"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "n0149", "soz": "Yaddaş", "qadagan": ["xatırlamaq", "keçmiş", "beyin", "unutmaq", "saxlamaq"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "n0150", "soz": "Səbir", "qadagan": ["gözləmək", "sakit", "dözmək", "tələsməmək", "zaman"], "kateqoriya": "Mücərrəd", "cetinlik": "orta"},
+    {"id": "n0151", "soz": "Vicdan", "qadagan": ["daxil", "düzgün", "səs", "əzab", "mənəvi"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0152", "soz": "Sədaqət", "qadagan": ["sadiq", "etibar", "dost", "xəyanət əksi", "bağlılıq"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0153", "soz": "Qısqanclıq", "qadagan": ["sevgi", "başqası", "narahatlıq", "əldən vermək", "hiss"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0154", "soz": "Peşmanlıq", "qadagan": ["keçmiş", "səhv", "kaş", "təəssüf", "hiss"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0155", "soz": "Nostalji", "qadagan": ["keçmiş", "xatirə", "darıxmaq", "köhnə", "həsrət"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0156", "soz": "İlham", "qadagan": ["yaratmaq", "sənətkar", "daxili", "təkan", "istək"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0157", "soz": "Cəsarət", "qadagan": ["qorxmamaq", "cəsur", "risk", "irəli", "mərd"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0158", "soz": "Şübhə", "qadagan": ["inanmamaq", "sual", "əmin olmamaq", "tərəddüd", "fikir"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0159", "soz": "Mərhəmət", "qadagan": ["acımaq", "kömək", "ürək", "yazıq", "insanlıq"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0160", "soz": "Qürur", "qadagan": ["fəxr", "özünə", "uğur", "baş yuxarı", "hiss"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "n0161", "soz": "Londra", "qadagan": ["İngiltərə", "Big Ben", "paytaxt", "Temza", "yağış"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "n0162", "soz": "Roma", "qadagan": ["İtaliya", "Kolizey", "paytaxt", "qədim", "tarix"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "n0163", "soz": "Nyu-York", "qadagan": ["Amerika", "göydələn", "azadlıq heykəli", "şəhər", "böyük"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "n0164", "soz": "Moskva", "qadagan": ["Rusiya", "Kreml", "paytaxt", "soyuq", "Qırmızı meydan"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "n0165", "soz": "Almaniya", "qadagan": ["Berlin", "Avropa", "avtomobil", "pivə", "güclü"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "n0166", "soz": "Çin", "qadagan": ["Asiya", "əhali", "Pekin", "səhmlər", "böyük"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "n0167", "soz": "Rusiya", "qadagan": ["böyük", "Moskva", "soyuq", "Avropa", "Asiya"], "kateqoriya": "Coğrafiya", "cetinlik": "asan"},
+    {"id": "n0168", "soz": "Misir", "qadagan": ["ehram", "piramida", "Nil", "səhra", "firon"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "n0169", "soz": "Hindistan", "qadagan": ["Asiya", "əhali", "ədviyyat", "Tac Mahal", "isti"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "n0170", "soz": "Braziliya", "qadagan": ["futbol", "Amazon", "karnaval", "Cənubi Amerika", "tropik"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "n0171", "soz": "İspaniya", "qadagan": ["korrida", "Madrid", "Avropa", "futbol", "isti"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "n0172", "soz": "Gürcüstan", "qadagan": ["qonşu", "Tbilisi", "şərab", "Qafqaz", "dağ"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "n0173", "soz": "İran", "qadagan": ["qonşu", "Tehran", "fars", "Asiya", "tarix"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "n0174", "soz": "Antarktida", "qadagan": ["buz", "soyuq", "qütb", "pinqvin", "cənub"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "n0175", "soz": "Amazon", "qadagan": ["meşə", "çay", "tropik", "cəngəllik", "Cənubi Amerika"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "n0176", "soz": "Everest", "qadagan": ["zirvə", "dağ", "ən hündür", "Himalay", "qar"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "n0177", "soz": "Venesiya", "qadagan": ["İtaliya", "kanal", "qondola", "su", "romantik"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "n0178", "soz": "Himalay", "qadagan": ["dağ silsiləsi", "Asiya", "zirvə", "qar", "hündür"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "n0179", "soz": "Çin səddi", "qadagan": ["divar", "uzun", "Çin", "qədim", "müdafiə"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "n0180", "soz": "Eyfel qülləsi", "qadagan": ["Paris", "dəmir", "Fransa", "hündür", "simvol"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "n0181", "soz": "Niaqara şəlaləsi", "qadagan": ["su", "Amerika", "Kanada", "tökülür", "nəhəng"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0001", "soz": "Qartal", "qadagan": ["yırtıcı", "uçur", "caynaq", "zirvə", "quş"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0002", "soz": "Göyərçin", "qadagan": ["uçur", "sülh", "şəhər", "dən", "quş"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "x0003", "soz": "Qarğa", "qadagan": ["qara", "quş", "qarıltı", "ağıllı", "şəhər"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "x0004", "soz": "Sərçə", "qadagan": ["balaca", "quş", "dən", "cik-cik", "həyət"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "x0005", "soz": "Leylək", "qadagan": ["uzun ayaq", "dimdik", "körpə", "quş", "yuva"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0006", "soz": "Qu quşu", "qadagan": ["ağ", "göl", "boyun", "gözəl", "üzür"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0007", "soz": "Dəvə", "qadagan": ["səhra", "hörgüc", "susuz", "yük", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0008", "soz": "Eşşək", "qadagan": ["anqırtı", "yük", "inadkar", "uzunqulaq", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "x0009", "soz": "Camış", "qadagan": ["buynuz", "su", "qara", "süd", "iri"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0010", "soz": "Quzu", "qadagan": ["balaca", "yun", "mələmə", "körpə", "otlaq"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0011", "soz": "Maral", "qadagan": ["buynuz", "meşə", "zərif", "qaçır", "gözəl"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0012", "soz": "Hinduşka", "qadagan": ["iri", "quş", "ət", "bayram", "qaqqıltı"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0013", "soz": "Bülbül", "qadagan": ["oxuyur", "quş", "səs", "gecə", "bağ"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0014", "soz": "Qaranquş", "qadagan": ["uçur", "yaz", "yuva", "quş", "gəlir"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0015", "soz": "Milçək", "qadagan": ["vızıltı", "həşərat", "zibil", "qanad", "qovmaq"], "kateqoriya": "Heyvanlar", "cetinlik": "asan"},
+    {"id": "x0016", "soz": "Qarışqa", "qadagan": ["balaca", "sürü", "çalışqan", "yuva", "həşərat"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0017", "soz": "Ağcaqanad", "qadagan": ["sancır", "qan", "vızıltı", "balaca", "həşərat"], "kateqoriya": "Heyvanlar", "cetinlik": "orta"},
+    {"id": "x0018", "soz": "Ceyran", "qadagan": ["zərif", "sürətli", "çöl", "gözəl", "qaçır"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0019", "soz": "Cüyür", "qadagan": ["meşə", "zərif", "buynuz", "qaçır", "balaca"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0020", "soz": "Qunduz", "qadagan": ["su", "ağac", "bənd", "gəmirici", "tikir"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0021", "soz": "Porsuq", "qadagan": ["yeraltı", "yuva", "gecə", "zolaqlı", "heyvan"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0022", "soz": "Dağ keçisi", "qadagan": ["qaya", "buynuz", "dırmaşır", "zirvə", "çevik"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0023", "soz": "Bizon", "qadagan": ["iri", "buynuz", "çöl", "Amerika", "sürü"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0024", "soz": "Koala", "qadagan": ["Avstraliya", "ağac", "evkalipt", "yatır", "sevimli"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0025", "soz": "Lama", "qadagan": ["dağ", "tüklü", "yük", "tüpürür", "Amerika"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0026", "soz": "Yaguar", "qadagan": ["yırtıcı", "ləkəli", "cəngəllik", "Amerika", "pişikkimi"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0027", "soz": "Leopard", "qadagan": ["ləkəli", "yırtıcı", "ağac", "Afrika", "sürətli"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0028", "soz": "Puma", "qadagan": ["yırtıcı", "dağ", "Amerika", "pişikkimi", "sürətli"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0029", "soz": "Kaftar", "qadagan": ["leş", "Afrika", "gülüş", "sürü", "yırtıcı"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0030", "soz": "Çaqqal", "qadagan": ["yırtıcı", "gecə", "ulayır", "balaca", "çöl"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0031", "soz": "Flaminqo", "qadagan": ["çəhrayı", "uzunayaq", "göl", "quş", "təkayaq"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0032", "soz": "Pelikan", "qadagan": ["dimdik", "balıq", "torba", "quş", "dəniz"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0033", "soz": "Albatros", "qadagan": ["dəniz", "qanad", "uçur", "okean", "quş"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0034", "soz": "Kolibri", "qadagan": ["balaca", "sürətli", "çiçək", "qanad", "quş"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0035", "soz": "Tutuquşu", "qadagan": ["danışır", "rəngli", "quş", "təkrar", "qəfəs"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0036", "soz": "Meduza", "qadagan": ["dəniz", "şəffaf", "yandırır", "üzür", "jele"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0037", "soz": "Dəniz ulduzu", "qadagan": ["beşqol", "dəniz", "dib", "ulduzformalı", "yapışır"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0038", "soz": "Xərçəng", "qadagan": ["qısqac", "dəniz", "yan-yan", "qabıq", "gəzir"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0039", "soz": "Karides", "qadagan": ["dəniz", "balaca", "çəhrayı", "yemək", "qabıqlı"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0040", "soz": "Kalmar", "qadagan": ["dəniz", "qol", "mürəkkəb", "yumşaq", "dərinlik"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0041", "soz": "İstridyə", "qadagan": ["dəniz", "qabıq", "inci", "yemək", "sədəf"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0042", "soz": "Əqrəb", "qadagan": ["zəhər", "quyruq", "qısqac", "səhra", "sancır"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0043", "soz": "Çəyirtkə", "qadagan": ["tullanır", "yaşıl", "ot", "həşərat", "sürü"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0044", "soz": "Cırcırama", "qadagan": ["səs", "yay", "ağac", "həşərat", "ötür"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0045", "soz": "Parabüzən", "qadagan": ["qırmızı", "nöqtəli", "balaca", "həşərat", "uçur"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0046", "soz": "Tarakan", "qadagan": ["mətbəx", "zərərverici", "gecə", "həşərat", "qaçır"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0047", "soz": "Kələz", "qadagan": ["divar", "sürünür", "balaca", "yapışır", "kərtənkələ"], "kateqoriya": "Heyvanlar", "cetinlik": "cetin"},
+    {"id": "x0048", "soz": "Omlet", "qadagan": ["yumurta", "tava", "səhər", "qızartmaq", "südlü"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0049", "soz": "Sendviç", "qadagan": ["çörək", "arası", "tez", "içlik", "yemək"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0050", "soz": "Qatıq", "qadagan": ["süddən", "turş", "ağ", "kasa", "ev"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0051", "soz": "Ayran", "qadagan": ["içki", "duzlu", "sərin", "qatıq", "yay"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0052", "soz": "Kərə yağı", "qadagan": ["sürtmək", "sarı", "çörək", "süddən", "səhər"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0053", "soz": "Tort", "qadagan": ["şirin", "bayram", "krem", "şam", "kəsmək"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0054", "soz": "Limonad", "qadagan": ["sərin", "turş", "içki", "qaz", "yay"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0055", "soz": "Sarımsaq", "qadagan": ["acı", "iy", "diş", "tərəvəz", "ədviyyə"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0056", "soz": "Bibər", "qadagan": ["acı", "qırmızı", "tərəvəz", "ədviyyə", "yaşıl"], "kateqoriya": "Yemək", "cetinlik": "asan"},
+    {"id": "x0057", "soz": "Manqo", "qadagan": ["tropik", "sarı", "şirin", "meyvə", "ekzotik"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0058", "soz": "Ananas", "qadagan": ["tropik", "tikanlı", "sarı", "şirin", "meyvə"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0059", "soz": "Kivi", "qadagan": ["yaşıl", "tüklü", "turş", "meyvə", "balaca"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0060", "soz": "Avokado", "qadagan": ["yaşıl", "yağlı", "yumşaq", "meyvə", "ləzzətli"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0061", "soz": "Nar", "qadagan": ["qırmızı", "dən", "turş", "meyvə", "Azərbaycan"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0062", "soz": "Heyva", "qadagan": ["sarı", "sərt", "payız", "meyvə", "mürəbbə"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0063", "soz": "Şaftalı", "qadagan": ["tüklü", "şirin", "yay", "meyvə", "sulu"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0064", "soz": "Ərik", "qadagan": ["narıncı", "şirin", "yay", "meyvə", "çəyirdək"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0065", "soz": "Qoz", "qadagan": ["sərt", "qabıq", "beyin", "ağac", "ləpə"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0066", "soz": "Fındıq", "qadagan": ["balaca", "qabıq", "şokolad", "ağac", "ləpə"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0067", "soz": "Badam", "qadagan": ["ağac", "ləpə", "şirin", "yaşıl", "çiçək"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0068", "soz": "Lobya", "qadagan": ["paxlalı", "bişirmək", "dən", "tərəvəz", "şorba"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0069", "soz": "Mərci", "qadagan": ["dən", "şorba", "qırmızı", "paxlalı", "bişirmək"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0070", "soz": "Doner", "qadagan": ["ət", "lavaş", "fırlanır", "sürətli", "Türkiyə"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0071", "soz": "Şaurma", "qadagan": ["ət", "lavaş", "sarımış", "sous", "sürətli"], "kateqoriya": "Yemək", "cetinlik": "orta"},
+    {"id": "x0072", "soz": "Dovğa", "qadagan": ["qatıq", "göyərti", "isti", "şorba", "düyü"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0073", "soz": "Xəngəl", "qadagan": ["xəmir", "ət", "qatıq", "yastı", "bişirmək"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0074", "soz": "Kükü", "qadagan": ["göyərti", "yumurta", "yaşıl", "qızartma", "tava"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0075", "soz": "Levengi", "qadagan": ["toyuq", "qoz", "içlik", "Lənkəran", "turş"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0076", "soz": "Badambura", "qadagan": ["bayram", "badam", "xəmir", "Novruz", "şirniyyat"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0077", "soz": "Şəkər çörəyi", "qadagan": ["bayram", "şirin", "xəmir", "Novruz", "gülabı"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0078", "soz": "Qoğal", "qadagan": ["yumru", "xəmir", "ədviyyə", "bişmiş", "çörək"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0079", "soz": "Buğlama", "qadagan": ["ət", "qazan", "sulu", "bişirmək", "yavaş"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0080", "soz": "Çığırtma", "qadagan": ["toyuq", "yumurta", "tava", "qızartma", "pomidor"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0081", "soz": "Sıyıq", "qadagan": ["südlü", "düyü", "yumşaq", "səhər", "qaşıq"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0082", "soz": "Riçal", "qadagan": ["meyvə", "mürəbbə", "qarışıq", "şirin", "payız"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0083", "soz": "Spageti", "qadagan": ["italyan", "nazik", "makaron", "sous", "uzun"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0084", "soz": "Pelmeni", "qadagan": ["xəmir", "ət", "qaynatmaq", "balaca", "rus"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0085", "soz": "Burrito", "qadagan": ["meksika", "sarımış", "lobya", "ət", "lavaş"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0086", "soz": "Çizburger", "qadagan": ["ət", "pendir", "bulka", "fastfud", "sous"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0087", "soz": "Risotto", "qadagan": ["italyan", "düyü", "krem", "bişirmək", "pendir"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0088", "soz": "Pankek", "qadagan": ["yastı", "səhər", "şirin", "tava", "amerikan"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0089", "soz": "Maffin", "qadagan": ["balaca", "tort", "şirin", "qəlib", "bişmiş"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0090", "soz": "Çizkeyk", "qadagan": ["pendir", "şirin", "tort", "amerikan", "desert"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0091", "soz": "Makaron deserti", "qadagan": ["fransız", "rəngli", "balaca", "badam", "yumşaq"], "kateqoriya": "Yemək", "cetinlik": "cetin"},
+    {"id": "x0092", "soz": "Stolüstü tennis", "qadagan": ["raket", "top", "masa", "tor", "balaca"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0093", "soz": "Boulinq", "qadagan": ["kürə", "keqli", "yıxmaq", "yol", "zərbə"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0094", "soz": "Bilyard", "qadagan": ["şar", "kiy", "masa", "cib", "yaşıl"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0095", "soz": "Oxatma", "qadagan": ["yay", "ox", "hədəf", "nişan", "dartmaq"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0096", "soz": "Sörfinq", "qadagan": ["dalğa", "lövhə", "okean", "balanslaşmaq", "yay"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0097", "soz": "Skeytbord", "qadagan": ["lövhə", "təkər", "trük", "park", "sürüşmək"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0098", "soz": "Konki sürmə", "qadagan": ["buz", "sürüşmək", "ayaq", "meydança", "qış"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0099", "soz": "Sumo", "qadagan": ["yapon", "ağır", "döyüş", "itələmək", "kök"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0100", "soz": "Tхэквондо", "qadagan": ["koreya", "təpik", "döyüş", "kəmər", "sürət"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0101", "soz": "Aikido", "qadagan": ["yapon", "döyüş", "müdafiə", "yıxmaq", "texnika"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0102", "soz": "Atıcılıq", "qadagan": ["tüfəng", "hədəf", "nişan", "dəqiqlik", "silah"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0103", "soz": "Halterçilik", "qadagan": ["ağırlıq", "qaldırmaq", "dəmir", "güc", "əzələ"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0104", "soz": "Bodibildinq", "qadagan": ["əzələ", "bədən", "ağırlıq", "forma", "səhnə"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0105", "soz": "Nizə atma", "qadagan": ["uzaq", "atletika", "uçur", "ucu", "stadion"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0106", "soz": "Disk atma", "qadagan": ["dairə", "fırlanmaq", "atletika", "uzaq", "atmaq"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0107", "soz": "Hündürlüyə tullanma", "qadagan": ["dirək", "yuxarı", "atletika", "keçmək", "tullanma"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0108", "soz": "Marafon", "qadagan": ["uzunməsafə", "qaçış", "42", "dözümlülük", "yarış"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0109", "soz": "Estafet", "qadagan": ["komanda", "çubuq", "növbə", "qaçış", "ötürmək"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0110", "soz": "Avarçəkmə", "qadagan": ["qayıq", "su", "çəkmək", "komanda", "kürək"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0111", "soz": "Kayak", "qadagan": ["qayıq", "avar", "çay", "tək", "su"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0112", "soz": "Alpinizm", "qadagan": ["dağ", "dırmaşmaq", "ip", "zirvə", "kanat"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0113", "soz": "Dalğıclıq", "qadagan": ["su altı", "balon", "dəniz", "nəfəs", "dərinlik"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0114", "soz": "Fiqurlu konki", "qadagan": ["buz", "fırlanmaq", "zərif", "musiqi", "sürüşmək"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0115", "soz": "Su xizəyi", "qadagan": ["su", "sürət", "qayıq", "dartmaq", "yay"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0116", "soz": "Parkur", "qadagan": ["şəhər", "tullanmaq", "maneə", "sürət", "akrobat"], "kateqoriya": "İdman", "cetinlik": "cetin"},
+    {"id": "x0117", "soz": "Pinqponq", "qadagan": ["raket", "balaca", "masa", "top", "tor"], "kateqoriya": "İdman", "cetinlik": "orta"},
+    {"id": "x0118", "soz": "Mikrodalğalı soba", "qadagan": ["isitmək", "mətbəx", "sürətli", "düymə", "yemək"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0119", "soz": "Paltaryuyan", "qadagan": ["paltar", "su", "fırlanmaq", "təmiz", "maşın"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0120", "soz": "Qabyuyan", "qadagan": ["qab", "su", "mətbəx", "təmiz", "maşın"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0121", "soz": "Saç qurudan", "qadagan": ["isti hava", "saç", "səs", "əl", "quru"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0122", "soz": "Proyektor", "qadagan": ["ekran", "işıq", "görüntü", "film", "divar"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0123", "soz": "Skaner", "qadagan": ["sənəd", "surət", "oxumaq", "rəqəmsal", "çevirmək"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0124", "soz": "Powerbank", "qadagan": ["batareya", "şarj", "səfər", "enerji", "cib"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0125", "soz": "Ağıllı saat", "qadagan": ["bilək", "zəng", "addım", "ekran", "bildiriş"], "kateqoriya": "Texnologiya", "cetinlik": "orta"},
+    {"id": "x0126", "soz": "Prosessor", "qadagan": ["beyin", "çip", "hesablama", "sürət", "kompüter"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0127", "soz": "Videokart", "qadagan": ["qrafika", "oyun", "ekran", "güclü", "kompüter"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0128", "soz": "Mikroskop", "qadagan": ["böyütmək", "balaca", "baxmaq", "laboratoriya", "hüceyrə"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0129", "soz": "Teleskop", "qadagan": ["ulduz", "uzaq", "baxmaq", "kosmos", "böyütmək"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0130", "soz": "Radar", "qadagan": ["siqnal", "təyyarə", "aşkar", "dalğa", "hərbi"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0131", "soz": "Generator", "qadagan": ["enerji", "cərəyan", "yanacaq", "ehtiyat", "istehsal"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0132", "soz": "Günəş paneli", "qadagan": ["enerji", "işıq", "dam", "təbii", "elektrik"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0133", "soz": "Bankomat", "qadagan": ["pul", "kart", "çəkmək", "maşın", "banka"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0134", "soz": "Eskalator", "qadagan": ["pilləkən", "hərəkət", "yuxarı", "mağaza", "avtomatik"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0135", "soz": "Termometr", "qadagan": ["istilik", "ölçmək", "dərəcə", "civə", "xəstə"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0136", "soz": "Rentgen", "qadagan": ["sümük", "şüa", "həkim", "görüntü", "içəri"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0137", "soz": "Defibrilyator", "qadagan": ["ürək", "şok", "cərəyan", "xilas", "tibbi"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0138", "soz": "Kosmik gəmi", "qadagan": ["kosmos", "uçmaq", "astronavt", "raket", "orbit"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0139", "soz": "Sualtı qayıq", "qadagan": ["dəniz", "dalmaq", "hərbi", "dərinlik", "gəmi"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0140", "soz": "Eskavator", "qadagan": ["qazmaq", "tikinti", "kepçə", "torpaq", "maşın"], "kateqoriya": "Texnologiya", "cetinlik": "cetin"},
+    {"id": "x0141", "soz": "Günəş", "qadagan": ["isti", "işıq", "səma", "gündüz", "sarı"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "x0142", "soz": "Səma", "qadagan": ["mavi", "yuxarı", "bulud", "günəş", "açıq"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "x0143", "soz": "Yarpaq", "qadagan": ["yaşıl", "ağac", "payız", "budaq", "tökülür"], "kateqoriya": "Təbiət", "cetinlik": "asan"},
+    {"id": "x0144", "soz": "Toxum", "qadagan": ["əkmək", "cücərmək", "balaca", "bitki", "torpaq"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0145", "soz": "Göbələk", "qadagan": ["meşə", "papaq", "yağışdan sonra", "yemək", "nəm"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0146", "soz": "Kaktus", "qadagan": ["tikan", "səhra", "susuz", "yaşıl", "bitki"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0147", "soz": "Palma", "qadagan": ["tropik", "hündür", "sahil", "yarpaq", "istilik"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0148", "soz": "Şam ağacı", "qadagan": ["yaşıl", "iynə", "meşə", "yeni il", "qoza"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0149", "soz": "Söyüd", "qadagan": ["sallaq", "çay", "budaq", "ağac", "kədərli"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0150", "soz": "Boran", "qadagan": ["qar", "külək", "qış", "görünməz", "soyuq"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0151", "soz": "Sel", "qadagan": ["su", "daşqın", "yağış", "axın", "dağıdıcı"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0152", "soz": "Şaxta", "qadagan": ["soyuq", "qış", "donmaq", "ağ", "səhər"], "kateqoriya": "Təbiət", "cetinlik": "orta"},
+    {"id": "x0153", "soz": "Meteor", "qadagan": ["kosmos", "düşür", "işıq", "daş", "səma"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0154", "soz": "Kometa", "qadagan": ["kosmos", "quyruq", "işıq", "orbit", "nadir"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0155", "soz": "Qalaktika", "qadagan": ["ulduz", "kosmos", "spiral", "nəhəng", "fəza"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0156", "soz": "Saman yolu", "qadagan": ["ulduz", "qalaktika", "gecə", "səma", "zolaq"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0157", "soz": "Asteroid", "qadagan": ["kosmos", "daş", "orbit", "kiçik planet", "fəza"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0158", "soz": "Atmosfer", "qadagan": ["hava", "Yer", "təbəqə", "oksigen", "qoruyur"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0159", "soz": "Qasırğa", "qadagan": ["külək", "fırlanmaq", "dağıdıcı", "tropik", "tufan"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0160", "soz": "Burulğan", "qadagan": ["su", "fırlanmaq", "dairə", "çəkir", "təhlükə"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0161", "soz": "Quraqlıq", "qadagan": ["susuz", "yağışsız", "çatlaq", "istilik", "məhsulsuz"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0162", "soz": "Sırsıra", "qadagan": ["buz", "damla", "asılı", "soyuq", "dam"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0163", "soz": "Stalaktit", "qadagan": ["mağara", "asılı", "əhəng", "damcı", "tavandan"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0164", "soz": "Lava", "qadagan": ["vulkan", "qızmar", "ərimiş", "axın", "qırmızı"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0165", "soz": "Üfüq", "qadagan": ["uzaq", "göylə yer", "xətt", "günəş batan", "baxış"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0166", "soz": "Şəfəq", "qadagan": ["səhər", "günəş çıxan", "işıq", "səma", "qırmızımtıl"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0167", "soz": "Mineral", "qadagan": ["daş", "yerin altı", "kristal", "faydalı", "qazıntı"], "kateqoriya": "Təbiət", "cetinlik": "cetin"},
+    {"id": "x0168", "soz": "Rəqqas", "qadagan": ["hərəkət", "musiqi", "səhnə", "ritm", "oynamaq"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0169", "soz": "Yazıçı", "qadagan": ["kitab", "yazmaq", "roman", "qələm", "müəllif"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0170", "soz": "Şair", "qadagan": ["şeir", "qafiyə", "yazmaq", "misra", "duyğu"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0171", "soz": "Tərcüməçi", "qadagan": ["dil", "çevirmək", "mətn", "xarici", "söz"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0172", "soz": "Aparıcı", "qadagan": ["mikrofon", "verliş", "səhnə", "danışmaq", "televiziya"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0173", "soz": "Santexnik", "qadagan": ["boru", "su", "təmir", "kran", "sızma"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0174", "soz": "Elektrik", "qadagan": ["cərəyan", "məftil", "təmir", "işıq", "rozetka"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0175", "soz": "Dülgər", "qadagan": ["taxta", "mişar", "mebel", "düzəltmək", "ağac"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0176", "soz": "Bağban", "qadagan": ["bağ", "əkmək", "bitki", "sulamaq", "çiçək"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0177", "soz": "Qəssab", "qadagan": ["ət", "bıçaq", "kəsmək", "bazar", "heyvan"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0178", "soz": "Qarson", "qadagan": ["restoran", "sifariş", "gətirmək", "masa", "xidmət"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0179", "soz": "Barmen", "qadagan": ["içki", "bar", "qarışdırmaq", "stəkan", "gecə"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0180", "soz": "Kassir", "qadagan": ["pul", "kassa", "ödəmə", "market", "çek"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0181", "soz": "Tibb bacısı", "qadagan": ["xəstəxana", "həkim", "iynə", "qulluq", "ağ xalat"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0182", "soz": "Əczaçı", "qadagan": ["dərman", "aptek", "resept", "satmaq", "həb"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0183", "soz": "Əsgər", "qadagan": ["ordu", "silah", "vətən", "forma", "döyüş"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0184", "soz": "Yanğınsöndürən", "qadagan": ["alov", "su", "xilas", "maşın", "təhlükə"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0185", "soz": "Stüardessa", "qadagan": ["təyyarə", "sərnişin", "xidmət", "uçuş", "forma"], "kateqoriya": "Peşələr", "cetinlik": "orta"},
+    {"id": "x0186", "soz": "Bəstəkar", "qadagan": ["musiqi", "not", "yaratmaq", "melodiya", "əsər"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0187", "soz": "Dirijor", "qadagan": ["orkestr", "çubuq", "idarə", "musiqi", "səhnə"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0188", "soz": "Prokuror", "qadagan": ["məhkəmə", "ittiham", "qanun", "cinayət", "dövlət"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0189", "soz": "Detektiv", "qadagan": ["cinayət", "araşdırmaq", "izləmək", "sübut", "tapmaq"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0190", "soz": "Casus", "qadagan": ["gizli", "məlumat", "düşmən", "sirr", "kəşfiyyat"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0191", "soz": "Snayper", "qadagan": ["uzaq", "atəş", "dəqiq", "nişan", "gizli"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0192", "soz": "Xilasedici", "qadagan": ["sahil", "boğulan", "su", "kömək", "təhlükə"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0193", "soz": "Paleontoloq", "qadagan": ["dinozavr", "sümük", "qazıntı", "qədim", "alim"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0194", "soz": "Antropoloq", "qadagan": ["insan", "mədəniyyət", "tədqiqat", "cəmiyyət", "alim"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0195", "soz": "Bioloq", "qadagan": ["canlı", "hüceyrə", "laboratoriya", "tədqiqat", "alim"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0196", "soz": "Kimyaçı", "qadagan": ["maddə", "reaksiya", "laboratoriya", "element", "alim"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0197", "soz": "Fizik", "qadagan": ["qanun", "enerji", "laboratoriya", "atom", "alim"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0198", "soz": "Optometrist", "qadagan": ["göz", "eynək", "görmə", "yoxlama", "həkim"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0199", "soz": "Pediatr", "qadagan": ["uşaq", "həkim", "müalicə", "körpə", "klinika"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0200", "soz": "Pilot köməkçisi", "qadagan": ["təyyarə", "kabin", "uçuş", "kömək", "göydə"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0201", "soz": "Maşinist", "qadagan": ["qatar", "sürmək", "rels", "kabin", "stansiya"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0202", "soz": "Aqronom", "qadagan": ["torpaq", "əkin", "məhsul", "kənd", "mütəxəssis"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0203", "soz": "Arıçı", "qadagan": ["bal", "arı", "pətək", "tor", "ferma"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0204", "soz": "Konditer", "qadagan": ["şirniyyat", "tort", "krem", "bişirmək", "desert"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0205", "soz": "Vizajist", "qadagan": ["üz", "boya", "gözəllik", "fırça", "makiyaj"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0206", "soz": "Operator", "qadagan": ["kamera", "çəkmək", "film", "görüntü", "səhnə"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0207", "soz": "Sürücü-mexanik", "qadagan": ["maşın", "təmir", "mühərrik", "alət", "sazlamaq"], "kateqoriya": "Peşələr", "cetinlik": "cetin"},
+    {"id": "x0208", "soz": "Stəkan", "qadagan": ["su", "içmək", "şüşə", "masa", "dolu"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "x0209", "soz": "Kasa", "qadagan": ["şorba", "dərin", "yemək", "qaşıq", "mətbəx"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "x0210", "soz": "Sini", "qadagan": ["daşımaq", "yastı", "qab", "çay", "gətirmək"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "x0211", "soz": "Termos", "qadagan": ["isti", "saxlamaq", "içki", "səfər", "metal"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0212", "soz": "Mişar", "qadagan": ["taxta", "kəsmək", "diş", "alət", "əl"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0213", "soz": "Kəlbətin", "qadagan": ["sıxmaq", "alət", "metal", "dartmaq", "mismar"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0214", "soz": "Vint", "qadagan": ["burmaq", "metal", "bərkitmək", "açar", "balaca"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0215", "soz": "Asılqan", "qadagan": ["paltar", "şkaf", "asmaq", "çiyin", "metal"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0216", "soz": "Banka", "qadagan": ["şüşə", "saxlamaq", "mürəbbə", "qapaq", "qışlıq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0217", "soz": "İp", "qadagan": ["bağlamaq", "uzun", "nazik", "düyün", "çəkmək"], "kateqoriya": "Məişət", "cetinlik": "asan"},
+    {"id": "x0218", "soz": "Sap", "qadagan": ["iynə", "tikiş", "nazik", "makara", "dərzi"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0219", "soz": "Düymə", "qadagan": ["köynək", "bağlamaq", "balaca", "dəlik", "paltar"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0220", "soz": "Döşək", "qadagan": ["yatmaq", "yumşaq", "çarpayı", "üstündə", "qalın"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0221", "soz": "Mələfə", "qadagan": ["çarpayı", "ağ", "sərmək", "parça", "yataq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0222", "soz": "Adyal", "qadagan": ["isti", "örtmək", "yorğan", "yun", "qış"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0223", "soz": "Kreslo", "qadagan": ["oturmaq", "yumşaq", "rahat", "qol", "dincəlmək"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0224", "soz": "Rəf", "qadagan": ["kitab", "qoymaq", "divar", "taxta", "düzmək"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0225", "soz": "Sandıq", "qadagan": ["saxlamaq", "qutu", "köhnə", "açmaq", "ağır"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0226", "soz": "Seyf", "qadagan": ["pul", "qıfıl", "təhlükəsiz", "metal", "gizli"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0227", "soz": "Rozetka", "qadagan": ["cərəyan", "fiş", "divar", "elektrik", "qoşmaq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0228", "soz": "Uzadıcı", "qadagan": ["cərəyan", "kabel", "çoxlu", "fiş", "elektrik"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0229", "soz": "Zəngli saat", "qadagan": ["səhər", "oyatmaq", "səs", "vaxt", "yataq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0230", "soz": "Qum saatı", "qadagan": ["vaxt", "qum", "tökülmək", "çevirmək", "ölçmək"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0231", "soz": "Şamdan", "qadagan": ["şam", "işıq", "metal", "masa", "alov"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0232", "soz": "Mıx", "qadagan": ["çəkic", "taxta", "metal", "itiuc", "bərkitmək"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0233", "soz": "Maşa", "qadagan": ["közərmiş", "tutmaq", "metal", "ocaq", "uc"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0234", "soz": "Burğu", "qadagan": ["deşik", "fırlanmaq", "alət", "divar", "açmaq"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0235", "soz": "Çəllək", "qadagan": ["böyük", "saxlamaq", "taxta", "su", "dairəvi"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0236", "soz": "Ləyən", "qadagan": ["su", "paltar", "plastik", "yumaq", "geniş"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0237", "soz": "Süfrə", "qadagan": ["masa", "yemək", "sərmək", "parça", "qonaq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0238", "soz": "Qapaq", "qadagan": ["örtmək", "qazan", "bağlamaq", "üst", "açmaq"], "kateqoriya": "Məişət", "cetinlik": "orta"},
+    {"id": "x0239", "soz": "Otvertka", "qadagan": ["vint", "burmaq", "alət", "uc", "açmaq"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0240", "soz": "Açar (alət)", "qadagan": ["qayka", "burmaq", "metal", "təmir", "mexanik"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0241", "soz": "Beşik", "qadagan": ["körpə", "yellətmək", "yatmaq", "balaca", "laylay"], "kateqoriya": "Məişət", "cetinlik": "cetin"},
+    {"id": "x0242", "soz": "Tənhalıq", "qadagan": ["tək", "kimsəsiz", "kədər", "yalnız", "boşluq"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0243", "soz": "Həsrət", "qadagan": ["uzaq", "darıxmaq", "görüşmək", "intizar", "ürək"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0244", "soz": "İradə", "qadagan": ["güclü", "qərar", "dözüm", "istək", "möhkəm"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0245", "soz": "Şükür", "qadagan": ["təşəkkür", "minnətdar", "ürəkdən", "nemət", "razı"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0246", "soz": "Bağışlama", "qadagan": ["əfv", "günah", "üzr", "unutmaq", "barışmaq"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0247", "soz": "Qisas", "qadagan": ["intiqam", "düşmən", "cavab", "zərbə", "kin"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0248", "soz": "Tale", "qadagan": ["alın yazısı", "gələcək", "qədər", "həyat", "yazılmış"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0249", "soz": "Möcüzə", "qadagan": ["inanılmaz", "qeyri-adi", "gözlənilməz", "sehr", "heyrət"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0250", "soz": "Sirr", "qadagan": ["gizli", "saxlamaq", "açmaq", "məxfi", "kimsə bilmir"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0251", "soz": "Vahimə", "qadagan": ["qorxu", "panika", "dəhşət", "titrəmə", "içi"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0252", "soz": "Heyrət", "qadagan": ["təəccüb", "gözüaçıq", "inanmamaq", "şok", "qeyri-adi"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0253", "soz": "Comərdlik", "qadagan": ["əliaçıq", "vermək", "səxavət", "kömək", "mərd"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0254", "soz": "Təvazökarlıq", "qadagan": ["sadə", "lovğa deyil", "həlim", "alçaqkönüllü", "məğrur deyil"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0255", "soz": "Lovğalıq", "qadagan": ["özünü öymək", "təkəbbür", "yuxarıdan", "qürur", "göstəriş"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0256", "soz": "Ümidsizlik", "qadagan": ["ümid yox", "kədər", "çarəsiz", "qaranlıq", "ruh düşkün"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0257", "soz": "Eşq", "qadagan": ["sevgi", "aşiq", "ürək", "məhəbbət", "atəşli"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0258", "soz": "İman", "qadagan": ["inanc", "Allah", "dini", "ürəkdən", "etiqad"], "kateqoriya": "Mücərrəd", "cetinlik": "cetin"},
+    {"id": "x0259", "soz": "Tokio", "qadagan": ["Yaponiya", "paytaxt", "şəhər", "Asiya", "müasir"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0260", "soz": "Pekin", "qadagan": ["Çin", "paytaxt", "şəhər", "Asiya", "böyük"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0261", "soz": "Berlin", "qadagan": ["Almaniya", "paytaxt", "divar", "Avropa", "şəhər"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0262", "soz": "İstanbul", "qadagan": ["Türkiyə", "Bosfor", "şəhər", "tarixi", "körpü"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0263", "soz": "Dubay", "qadagan": ["BƏƏ", "səhra", "göydələn", "lüks", "isti"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0264", "soz": "Vyana", "qadagan": ["Avstriya", "paytaxt", "musiqi", "klassik", "Avropa"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0265", "soz": "Praqa", "qadagan": ["Çexiya", "paytaxt", "körpü", "gözəl", "Avropa"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0266", "soz": "Amsterdam", "qadagan": ["Niderland", "kanal", "velosiped", "laləd", "Avropa"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0267", "soz": "Afina", "qadagan": ["Yunanıstan", "qədim", "Akropol", "paytaxt", "tarix"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0268", "soz": "Qahirə", "qadagan": ["Misir", "Nil", "paytaxt", "səhra", "ehram"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0269", "soz": "Səudiyyə Ərəbistanı", "qadagan": ["səhra", "neft", "Məkkə", "ərəb", "isti"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0270", "soz": "Kanada", "qadagan": ["şimal", "ağcaqayın", "soyuq", "böyük", "Amerika"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0271", "soz": "Avstraliya", "qadagan": ["kenquru", "ada-qitə", "cənub", "okean", "uzaq"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0272", "soz": "İsveçrə", "qadagan": ["dağ", "saat", "şokolad", "bank", "Alp"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0273", "soz": "Norveç", "qadagan": ["şimal", "fyord", "soyuq", "balıq", "Avropa"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0274", "soz": "Yunanıstan", "qadagan": ["ada", "qədim", "mifologiya", "dəniz", "Avropa"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0275", "soz": "İslandiya", "qadagan": ["buz", "vulkan", "şimal", "geyzer", "soyuq"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0276", "soz": "Tac Mahal", "qadagan": ["Hindistan", "ağ", "məqbərə", "sevgi", "mərmər"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0277", "soz": "Kolizey", "qadagan": ["Roma", "qədim", "arena", "amfiteatr", "dairəvi"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0278", "soz": "Piza qülləsi", "qadagan": ["İtaliya", "əyri", "qüllə", "yıxılan kimi", "məşhur"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0279", "soz": "Azadlıq heykəli", "qadagan": ["Nyu-York", "məşəl", "qadın", "ABŞ", "liman"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0280", "soz": "Maçu Pikçu", "qadagan": ["dağ", "qədim", "Peru", "inka", "xaraba"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0281", "soz": "Stounhenc", "qadagan": ["daş", "qədim", "İngiltərə", "dairə", "sirli"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0282", "soz": "Sfenks", "qadagan": ["Misir", "aslan", "heykəl", "səhra", "qədim"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0283", "soz": "Burc Xəlifə", "qadagan": ["Dubay", "ən hündür", "göydələn", "bina", "BƏƏ"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0284", "soz": "Qrand Kanyon", "qadagan": ["Amerika", "dərə", "qırmızı", "nəhəng", "Kolorado"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0285", "soz": "Baykal gölü", "qadagan": ["dərin", "göl", "Sibir", "təmiz", "böyük"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0286", "soz": "Ölü dəniz", "qadagan": ["duzlu", "batmaq olmur", "aşağı", "İsrail", "mineral"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0287", "soz": "Ekvator", "qadagan": ["xəyali xətt", "Yer", "ortası", "isti", "sıfır"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0288", "soz": "Şimal qütbü", "qadagan": ["soyuq", "buz", "ən şimal", "ayı", "kompas"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0289", "soz": "Kilimancaro", "qadagan": ["dağ", "Afrika", "zirvə", "qar", "Tanzaniya"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0290", "soz": "Qara dəniz", "qadagan": ["dəniz", "sahil", "Türkiyə", "gəmi", "duzlu"], "kateqoriya": "Coğrafiya", "cetinlik": "orta"},
+    {"id": "x0291", "soz": "Sahara", "qadagan": ["səhra", "qum", "Afrika", "isti", "nəhəng"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0292", "soz": "Qanq çayı", "qadagan": ["Hindistan", "müqəddəs", "çay", "uzun", "Asiya"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0293", "soz": "Nil çayı", "qadagan": ["Misir", "uzun", "Afrika", "çay", "qədim"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0294", "soz": "And dağları", "qadagan": ["Cənubi Amerika", "uzun", "silsilə", "zirvə", "lama"], "kateqoriya": "Coğrafiya", "cetinlik": "cetin"},
+    {"id": "x0295", "soz": "Şar", "qadagan": ["uçur", "hava", "rəngli", "bayram", "partlayır"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x0296", "soz": "Yelpik", "qadagan": ["sərinlətmək", "yay", "əl", "açmaq", "isti"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x0297", "soz": "Süpürgəçöp", "qadagan": ["çatı", "dam", "düzəltmək", "ağac", "təmizlik"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0298", "soz": "Açar (qapı)", "qadagan": ["qıfıl", "qapı", "açmaq", "metal", "cib"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x0299", "soz": "Pul kisəsi", "qadagan": ["pul", "cib", "saxlamaq", "kart", "dəri"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x0300", "soz": "Saat (cib)", "qadagan": ["vaxt", "əqrəb", "tıqqıltı", "bilək", "rəqəm"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x0301", "soz": "Pilləkən", "qadagan": ["qalxmaq", "mərtəbə", "ayaq", "yuxarı", "düşmək"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x0302", "soz": "Heykəl", "qadagan": ["daş", "abidə", "insan", "meydan", "düzəldilmiş"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x0303", "soz": "Qüllə", "qadagan": ["hündür", "bina", "yuxarı", "baxmaq", "uca"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x0304", "soz": "Akvarium", "qadagan": ["balıq", "şüşə", "su", "ev", "baxmaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x0305", "soz": "Qəfəs", "qadagan": ["quş", "metal", "bağlı", "saxlamaq", "içəri"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x0306", "soz": "Bel (alət)", "qadagan": ["torpaq", "qazmaq", "bağ", "əl", "alət"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x0307", "soz": "Toxa", "qadagan": ["torpaq", "əkin", "bel", "bağ", "alət"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0308", "soz": "Oraq", "qadagan": ["biçmək", "taxıl", "əyri", "əl", "kənd"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0309", "soz": "Tərəzi (köhnə)", "qadagan": ["çəki", "iki gözlü", "ölçmək", "tarazlıq", "ədalət"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0310", "soz": "Qədəh", "qadagan": ["şərab", "içmək", "ayaqlı", "şüşə", "bayram"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0311", "soz": "Domino", "qadagan": ["daş", "nöqtə", "oyun", "düzmək", "masa"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0312", "soz": "Nərd", "qadagan": ["zər", "daş", "oyun", "masa", "atmaq"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0313", "soz": "Tar", "qadagan": ["simli", "musiqi", "alət", "Azərbaycan", "çalmaq"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0314", "soz": "Kaman", "qadagan": ["simli", "yay", "musiqi", "çəkmək", "alət"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0315", "soz": "Skripka", "qadagan": ["simli", "yay", "musiqi", "çiyin", "klassik"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0316", "soz": "Saksafon", "qadagan": ["nəfəs", "caz", "musiqi", "metal", "alət"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0317", "soz": "Truba", "qadagan": ["nəfəs", "metal", "səs", "musiqi", "parlaq"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0318", "soz": "Fleyta", "qadagan": ["nəfəs", "balaca", "musiqi", "incə", "üfləmək"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0319", "soz": "Akkordeon", "qadagan": ["körük", "düymə", "musiqi", "sıxmaq", "səs"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0320", "soz": "Zurna", "qadagan": ["nəfəs", "toy", "musiqi", "ucadan", "milli"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0321", "soz": "Balaban", "qadagan": ["nəfəs", "incə", "musiqi", "milli", "tar yanında"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x0322", "soz": "Qaval", "qadagan": ["dəf", "vurmaq", "ritm", "milli", "əl"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x5000", "soz": "Ana", "qadagan": ["doğmaq", "ailə", "qadın", "sevgi", "övlad"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5001", "soz": "Ata", "qadagan": ["ailə", "kişi", "övlad", "ev başçısı", "valideyn"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5002", "soz": "Bacı", "qadagan": ["qız", "ailə", "qardaş", "doğma", "ev"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5003", "soz": "Qardaş", "qadagan": ["oğlan", "ailə", "bacı", "doğma", "ev"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5004", "soz": "Nənə", "qadagan": ["yaşlı", "qadın", "nəvə", "ailə", "mehriban"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5005", "soz": "Baba", "qadagan": ["yaşlı", "kişi", "nəvə", "ailə", "ağsaqqal"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5006", "soz": "Körpə", "qadagan": ["balaca", "ağlamaq", "beşik", "yeni doğulan", "südəmər"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5007", "soz": "Uşaq", "qadagan": ["balaca", "oynamaq", "məktəb", "oyuncaq", "kiçik"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5008", "soz": "Dost", "qadagan": ["yaxın", "etibar", "birlikdə", "kömək", "sədaqət"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5009", "soz": "Diş", "qadagan": ["ağız", "ağ", "çeynəmək", "fırça", "ağrı"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5010", "soz": "Barmaq", "qadagan": ["əl", "beş", "üzük", "saymaq", "dırnaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5011", "soz": "Dırnaq", "qadagan": ["barmaq", "kəsmək", "uzun", "lak", "sərt"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5012", "soz": "Diz", "qadagan": ["ayaq", "əymək", "oturmaq", "oynaq", "düşmək"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5013", "soz": "Çiyin", "qadagan": ["bədən", "yuxarı", "çanta", "qol", "baş"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5014", "soz": "Qaş", "qadagan": ["göz", "tük", "yuxarı", "qara", "üz"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5015", "soz": "Kirpik", "qadagan": ["göz", "tük", "uzun", "qırpmaq", "incə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5016", "soz": "Kağız", "qadagan": ["ağ", "yazmaq", "nazik", "vərəq", "cırmaq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5017", "soz": "Boya", "qadagan": ["rəng", "fırça", "şəkil", "rəngləmək", "palitra"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5018", "soz": "Zərf", "qadagan": ["məktub", "kağız", "göndərmək", "poçt", "yapışdırmaq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5019", "soz": "Marka", "qadagan": ["poçt", "məktub", "yapışdırmaq", "balaca", "kolleksiya"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5020", "soz": "Möhür", "qadagan": ["sənəd", "basmaq", "rəsmi", "mürəkkəb", "təsdiq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5021", "soz": "Açar söz", "qadagan": ["parol", "gizli", "giriş", "yadda saxlamaq", "təhlükəsizlik"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x5022", "soz": "Süd dişi", "qadagan": ["uşaq", "düşmək", "balaca", "yeni", "ağız"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x5023", "soz": "Şam (yemək)", "qadagan": ["axşam", "yemək", "masa", "gecə", "ailə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5024", "soz": "Səhər yeməyi", "qadagan": ["səhər", "çörək", "yumurta", "çay", "ilk"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5025", "soz": "Divar", "qadagan": ["otaq", "kərpic", "boya", "arxa", "hündür"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5026", "soz": "Tavan", "qadagan": ["otaq", "yuxarı", "baş üstü", "ağ", "işıq"], "kateqoriya": "Digər", "cetinlik": "asan"},
+    {"id": "x5027", "soz": "Döşəmə", "qadagan": ["otaq", "aşağı", "ayaq", "xalça", "parket"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5028", "soz": "Eyvan", "qadagan": ["bayır", "mənzər", "oturmaq", "ev", "açıq"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5029", "soz": "Çardaq", "qadagan": ["ev", "yuxarı", "dam", "köhnə əşya", "tavan üstü"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x5030", "soz": "Zirzəmi", "qadagan": ["yeraltı", "ev", "qaranlıq", "saxlama", "aşağı"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5031", "soz": "Bağça", "qadagan": ["ev", "ağac", "həyət", "çiçək", "yaşıl"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5032", "soz": "Çəpər", "qadagan": ["həyət", "sərhəd", "ağac", "dövrə", "hasar"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5033", "soz": "Quyu", "qadagan": ["su", "dərin", "çıxarmaq", "kənd", "vedrə"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5034", "soz": "Ocaq", "qadagan": ["od", "isti", "odun", "yandırmaq", "alov"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5035", "soz": "Tüstü", "qadagan": ["od", "yuxarı", "boz", "baca", "qoxu"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5036", "soz": "Kül", "qadagan": ["od", "sonra", "boz", "yanmış", "soyuq"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x5037", "soz": "Kömür", "qadagan": ["qara", "yanmaq", "mangal", "isti", "sərt"], "kateqoriya": "Digər", "cetinlik": "orta"},
+    {"id": "x5038", "soz": "Saman", "qadagan": ["quru", "heyvan", "ferma", "sarı", "ot"], "kateqoriya": "Digər", "cetinlik": "cetin"},
+    {"id": "x5039", "soz": "Çörək bıçağı", "qadagan": ["kəsmək", "mətbəx", "dişli", "uzun", "itidir"], "kateqoriya": "Digər", "cetinlik": "cetin"}
   ]
 }
